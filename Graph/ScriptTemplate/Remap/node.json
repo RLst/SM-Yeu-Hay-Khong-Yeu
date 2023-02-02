@@ -1,0 +1,67 @@
+{
+	"name": "Remap",
+	"id": "4acaee5d-df76-f23d-c8aa-0c0420e20703",
+	"inputs": [
+		{
+			"name": "A",
+			"type": "Double",
+			"item_type": "",
+			"description": "The value to remap",
+			"displayType": "Number"
+		},
+		{
+			"name": "Input Min",
+			"type": "Double",
+			"item_type": "",
+			"description": "The lower bound of the old range",
+			"displayType": "Number"
+		},
+		{
+			"name": "Input Max",
+			"type": "Double",
+			"item_type": "",
+			"description": "The upper bound of the old range",
+			"displayType": "Number"
+		},
+		{
+			"name": "Output Min",
+			"type": "Double",
+			"item_type": "",
+			"description": "The lower bound of the new range",
+			"displayType": "Number"
+		},
+		{
+			"name": "Output Max",
+			"type": "Double",
+			"item_type": "",
+			"description": "The upper bound of the new range",
+			"displayType": "Number"
+		},
+		{
+			"name": "Clamp",
+			"type": "Bool",
+			"default_value": false,
+			"item_type": "",
+			"description": "This value is false by default. When it is set to true, clamp the input value A between Output Min and Output Max.",
+			"displayType": "Boolean"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"type": "Double",
+			"item_type": "",
+			"description": "The remapped value",
+			"displayType": "Number"
+		}
+	],
+	"js": "CGReMap.js",
+	"version": "1.1.1",
+	"category": "Math",
+	"description": "Remap a value from an old range to a new range.",
+	"productTypes": [
+		"InHouse",
+		"Domestic",
+		"TTEH"
+	]
+}

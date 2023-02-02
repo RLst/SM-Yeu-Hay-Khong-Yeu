@@ -302,6 +302,60 @@
   },
   {
     "guid": {
+      "a": "f0c738cf-5ced-b9a9-e4c9-f1c09d38161a",
+      "b": ""
+    },
+    "objGuid": "Guid(2252592513669419303, 4251583980555718276)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "93bd06a5-6a11-c011-d4f9-b60b51bbe9ba",
+      "b": ""
+    },
+    "objGuid": "Guid(17456697015408603655, 17693284666697846945)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "b0ee8a8f-2b13-df21-8379-4551c97b21d2",
       "b": ""
     },
@@ -430,6 +484,72 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "e84d9210-d4d0-b39d-c87e-3885662b0274",
+      "b": ""
+    },
+    "objGuid": "Guid(16159580415729471553, 5276417255929740681)",
+    "extraType": "Entity",
+    "name": "Head 0 Love Gauge",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "5bfccaa7-ab83-7eb3-108a-625699ab7ec0",
+      "b": ""
+    },
+    "objGuid": "Guid(16663653333824608503, 15137470738897170598)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "20ef5994-b00a-b1c6-7940-8b2eb6cc137e",
+      "b": ""
+    },
+    "objGuid": "Guid(9314979945530457870, 11854236380280537503)",
+    "extraType": "Entity",
+    "name": "Head 1 Love Gauge",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "dda2d377-29a3-27d9-7498-e8c5bc8a44ae",
+      "b": ""
+    },
+    "objGuid": "Guid(8667073226157859165, 7805650203236509827)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e"
   }
 ]
