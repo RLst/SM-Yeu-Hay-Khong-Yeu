@@ -1,0 +1,74 @@
+{
+	"name": "Hand Detection",
+	"id": "feb28bb4-2006-0066-8682-ff64fc1b8b56",
+	"inputs": [
+		{
+			"name": "Type",
+			"description": "The detection type, Single hand or Both hands",
+			"type": "String",
+			"displayType": "String",
+			"value_list": [
+				"Single hand",
+				"Both hands"
+			]
+		}
+	],
+	"outputs": [
+		{
+			"name": "Begin",
+			"description": "Execute the next node when the hands are detected",
+			"type": "Pulse",
+			"displayType": "Exec"
+		},
+		{
+			"name": "Stay",
+			"description": "Keep executing the next node when the hands stays in scene",
+			"type": "Pulse",
+			"displayType": "Exec"
+		},
+		{
+			"name": "End",
+			"description": "Execute the next node when the hand disappeared",
+			"type": "Pulse",
+			"displayType": "Exec"
+		},
+		{
+			"name": "None",
+			"description": "Keep executing the next node when no hand is detected",
+			"type": "Pulse",
+			"displayType": "Exec"
+		}
+	],
+	"js": "CGHandDetection.js",
+	"nodeEvent": "onUpdate",
+	"category": "Hand",
+	"graphAlgorithms": [
+		"handDetect"
+	],
+	"extraAlgorithms": [
+		{
+			"port": 0,
+			"values": [
+				"Both hands"
+			],
+			"algorithms": [
+				"2handDetect"
+			]
+		},
+		{
+			"port": 0,
+			"values": "connected",
+			"algorithms": [
+				"2handDetect"
+			]
+		}
+	],
+	"productTypes": [
+		"InHouse",
+		"Domestic",
+		"TTEH"
+	],
+	"description": "Detect one hand or two hands in the scene.",
+	"version": "1.0.1",
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Hand/Hand-Detection"
+}

@@ -1,0 +1,60 @@
+{
+	"name": "Face Info",
+	"id": "834af7d5-45f8-a01d-7956-f366e9f77efa",
+	"inputs": [
+		{
+			"name": "Detect",
+			"description": "The face that you want to get its properties. “Face 0” represents the first human face appearing in the scene, and “Face 4” represents the fifth human face appearing in the scene.",
+			"type": "String",
+			"value_list": [
+				"Face 0",
+				"Face 1",
+				"Face 2",
+				"Face 3",
+				"Face 4"
+			],
+			"displayType": "String"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Rect",
+			"type": "Rect",
+			"description": "The bounding rectangle of the detected face",
+			"displayType": "Rect"
+		},
+		{
+			"name": "Center Position",
+			"description": "The center of the bounding rectangle of the detected face",
+			"type": "Vector2f",
+			"displayType": "Vec2"
+		},
+		{
+			"name": "Rotation",
+			"description": "The 3D rotation (in radians) of the detected face",
+			"type": "Vector3f",
+			"displayType": "Vec3"
+		},
+		{
+			"name": "2D Keypoints",
+			"generic": "T",
+			"description": "The facial keypoints in a format of the array (use the node “Get Item from Array” to access a specific keypoint position on a face)",
+			"type": "Array<T>",
+			"displayType": "Array<T>"
+		}
+	],
+	"js": "CGFaceInfo.js",
+	"category": "Head & Face",
+	"graphAlgorithms": [
+		"faceDetect"
+	],
+	"supportedValueTypes": [
+		"Vector2f"
+	],
+	"description": "Get the properties of a human face in the camera scene, including the bounding rectangle, center position, rotation, and keypoints of the face.",
+	"productTypes": [
+		"TTEH"
+	],
+	"version": "1.0.0",
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Head-and-Face/Face-Info"
+}
