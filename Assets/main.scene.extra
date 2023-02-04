@@ -820,7 +820,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "afceb1ba-0e13-2f4b-0b93-87b2709bfb17"
+    "texture": "09524558-1866-379f-11f7-2aca97f735ac"
   },
   {
     "guid": {
@@ -870,7 +870,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "09524558-1866-379f-11f7-2aca97f735ac"
+    "texture": "afceb1ba-0e13-2f4b-0b93-87b2709bfb17"
   },
   {
     "guid": {
@@ -1000,7 +1000,170 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
+    "expanded": false,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "39621704-343a-7f6d-5da6-6d7c7f5feb0f",
+      "b": ""
+    },
+    "objGuid": "Guid(14575445108093809896, 9972905782849831336)",
+    "extraType": "Entity",
+    "name": "Hand Tracker",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
     "expanded": true,
     "type": "none"
+  },
+  {
+    "guid": {
+      "a": "fdbdea80-1ddc-385a-294e-446063cf7071",
+      "b": ""
+    },
+    "objGuid": "Guid(10325465274091923302, 3359247554515142576)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_transform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "1964b022-ebd5-0db5-f334-cb33255f4048",
+      "b": ""
+    },
+    "objGuid": "Guid(16306840960793622034, 6410707637816921750)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_transform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "84e1032a-9e09-08df-acb5-19cf34c8f292",
+      "b": ""
+    },
+    "objGuid": "Guid(7801213522771222344, 15981975448839100835)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_transform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "bd6ad10c-c3eb-b992-05ca-0f06c28f3660",
+      "b": ""
+    },
+    "objGuid": "Guid(15080029290176255160, 5434936068814391459)",
+    "extraType": "HandCapture",
+    "name": "Hand Tracker",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_handtracker",
+    "expanded": true,
+    "editable": true,
+    "anchor": 1,
+    "advancedSetting": true,
+    "distance": 14,
+    "rotateZ": false
+  },
+  {
+    "guid": {
+      "a": "ffcc25ca-c9aa-c5e1-c502-db49acd3e330",
+      "b": ""
+    },
+    "objGuid": "Guid(8737925551849264716, 9125656037709274018)",
+    "extraType": "Entity",
+    "name": "Finger Objects",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "d6e905b3-29a4-f7e8-22c4-f40b63546998",
+      "b": ""
+    },
+    "objGuid": "Guid(15586817390745620570, 17358141667923553153)",
+    "extraType": "Entity",
+    "name": "Plane",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "a7fb7b37-ca94-8210-0077-65d954de9b6d",
+      "b": ""
+    },
+    "objGuid": "Guid(16307045114756591784, 7018078658678597041)",
+    "extraType": "MeshRenderer",
+    "name": "Mesh Renderer",
+    "rttiType": "MeshRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_meshrenderer",
+    "expanded": true,
+    "editable": true,
+    "visualization": false
   }
 ]

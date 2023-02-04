@@ -1,0 +1,52 @@
+{
+	"name": "Clamp",
+	"id": "1b80c1e7-ca78-9dfd-2b6d-0db9ac5edfcf",
+	"inputs": [
+		{
+			"name": "A",
+			"type": "Double",
+			"item_type": "",
+			"default_value": "0",
+			"dynamic": true,
+			"description": "The input value",
+			"displayType": "Number"
+		},
+		{
+			"name": "Min",
+			"type": "Double",
+			"item_type": "",
+			"default_value": "0",
+			"dynamic": true,
+			"description": "The minimum value",
+			"displayType": "Number"
+		},
+		{
+			"name": "Max",
+			"type": "Double",
+			"item_type": "",
+			"default_value": "0",
+			"dynamic": true,
+			"description": "The maximum value",
+			"displayType": "Number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"type": "Double",
+			"item_type": "",
+			"dynamic": true,
+			"description": "The value clamped between minimum and maximum",
+			"displayType": "Number"
+		}
+	],
+	"js": "CGClamp.js",
+	"version": "1.0.2",
+	"category": "Math",
+	"description": "Limit a value within a minimum and maximum range. If min is greater than max, it will clamp [max, min].",
+	"productTypes": [
+		"InHouse",
+		"Domestic",
+		"TTEH"
+	]
+}
