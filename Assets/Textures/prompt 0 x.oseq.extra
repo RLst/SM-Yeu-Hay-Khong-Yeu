@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "5bea333d-0790-0dff-2637-525d0d7a6aa5",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "prompt 0 x",
+    "objGuid": "Guid(7081006350215152092, 5483291996475427001)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]
