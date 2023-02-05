@@ -221,11 +221,11 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.8975718, b: 1.110223e-16, a: 1}
+        colorTint: {r: 0.9672223, g: 0.9692381, b: 1, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 1ede6344-3d3d-5205-5c0f-b657a8696bdc--1ede6344-3d3d-5205-5c0f-b657a8696bdc.png}
+        texture: {localId: 1, path: 797492a0-4c1d-7644-f312-ddcbbe85acaf--797492a0-4c1d-7644-f312-ddcbbe85acaf.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -276,8 +276,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/5bea333d-0790-0dff-2637-525d0d7a6aa5/2.png}
-        imageAtlas: {localId: 1, path: 5bea333d-0790-0dff-2637-525d0d7a6aa5--2.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/5bea333d-0790-0dff-2637-525d0d7a6aa5/0.png}
+        imageAtlas: {localId: 1, path: 5bea333d-0790-0dff-2637-525d0d7a6aa5--0.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -492,8 +492,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/d7e7df00-064d-005d-cb4d-0d1cf93e0949/2.png}
-        imageAtlas: {localId: 1, path: d7e7df00-064d-005d-cb4d-0d1cf93e0949--2.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/d7e7df00-064d-005d-cb4d-0d1cf93e0949/0.png}
+        imageAtlas: {localId: 1, path: d7e7df00-064d-005d-cb4d-0d1cf93e0949--0.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1073,7 +1073,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/abe64e01-6638-abe7-c85b-e6d6060126a2/24.png}
+        texture: {localId: 1, path: Library/Artifact/abe64e01-6638-abe7-c85b-e6d6060126a2/60.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1113,7 +1113,7 @@ entities:
           __class: PlayMode
           value: once
         loopCount: -1
-        speed: 24
+        speed: 8
         autoplay: false
         animSeqMap:
           __class: Map
@@ -1173,6 +1173,7 @@ children:
   - {localId: 20}
   - {localId: 26}
   - {localId: 28}
+  - {localId: 7}
   - {localId: 27}
   - {localId: 22}
 mobility:
@@ -1204,26 +1205,26 @@ size: {x: 723.2252, y: 723.2252}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -8
+depth: -9
 --- !IFTransform2d &7
 name: ""
 guid: {a: 17604122999071629736, b: 12410947048354092190}
 enabled: true
-localPosition: {x: 0, y: 0.859375, z: 0}
-localScale: {x: 1, y: 1, z: 1}
+localPosition: {x: 0, y: -0.4079506, z: 0}
+localScale: {x: 0.3, y: 0.3, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
-parent: {localId: 22}
+parent: {localId: 5}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: 0, y: 550}
+position: {x: 0, y: -261.0884}
 rotation: 0
-scale: {x: 1, y: 1}
-size: {x: 100, y: 100}
+scale: {x: 0.3, y: 0.3}
+size: {x: 256, y: 229}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -9
+depth: -4
 --- !IFTransform2d &8
 name: ""
 guid: {a: 9605934850909265620, b: 16671431194739240115}
@@ -1261,7 +1262,7 @@ size: {x: 10, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -6
+depth: -7
 --- !IFTransform2d &10
 name: ""
 guid: {a: 17456697015408603655, b: 17693284666697846945}
@@ -1280,7 +1281,7 @@ size: {x: 10, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -7
+depth: -8
 --- !IFTransform2d &15
 name: ""
 guid: {a: 14361623849596263861, b: 12553913055666168967}
@@ -1373,7 +1374,6 @@ children:
   - {localId: 9}
   - {localId: 10}
   - {localId: 6}
-  - {localId: 7}
   - {localId: 8}
 mobility:
   __class: Mobility
@@ -1385,7 +1385,7 @@ size: {x: 15, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -5
+depth: -6
 --- !Transform &23
 name: ""
 guid: {a: 10325465274091923302, b: 3359247554515142576}
@@ -1459,7 +1459,7 @@ size: {x: 720, y: 1004.469}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -4
+depth: -5
 --- !IFTransform2d &28
 name: ""
 guid: {a: 17099194854748068687, b: 18060242978809510053}
