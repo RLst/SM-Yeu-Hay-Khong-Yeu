@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "abe64e01-6638-abe7-c85b-e6d6060126a2",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "pink heart",
+    "objGuid": "Guid(6722279328253400231, 449790207359575446)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512
+  }
+]

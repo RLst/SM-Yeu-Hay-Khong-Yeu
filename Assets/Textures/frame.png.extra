@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "979b8a44-1514-958c-7630-2160a4c42bbe",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "frame",
+    "objGuid": "Guid(4272687594332823655, 492492457016530830)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
