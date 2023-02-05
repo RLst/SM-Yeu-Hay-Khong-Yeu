@@ -804,6 +804,60 @@
   },
   {
     "guid": {
+      "a": "910ffade-072a-6d7e-3863-8fb1980d7933",
+      "b": ""
+    },
+    "objGuid": "Guid(17169573039256424916, 11427270967443436217)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "6914d9bc-1253-8ffc-d0f4-b0a9974e415f",
+      "b": ""
+    },
+    "objGuid": "Guid(3553269118990505184, 10160419954973911951)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "330dd6a6-8470-30b5-33ab-694bf58cecde",
       "b": ""
     },
@@ -1056,7 +1110,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1320,5 +1374,90 @@
     "editable": true,
     "advanced": false,
     "texture": "2d7db52e-7786-56d0-70c5-d6f30c3ecd63"
+  },
+  {
+    "guid": {
+      "a": "86939c46-5f18-2fc8-c3d5-c7c251bd43f6",
+      "b": ""
+    },
+    "objGuid": "Guid(1389323162718274698, 432237441070570370)",
+    "extraType": "Entity",
+    "name": "Heart Merge Point",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "4b167473-2ec0-0a4d-6db5-63469c27f4ae",
+      "b": ""
+    },
+    "objGuid": "Guid(14938272642773448784, 5839265270883417216)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "1ede6344-3d3d-5205-5c0f-b657a8696bdc"
+  },
+  {
+    "guid": {
+      "a": "116ddbb4-cde5-14fe-2a9c-89f96d344617",
+      "b": ""
+    },
+    "objGuid": "Guid(8305132245439505597, 17403543839523312795)",
+    "extraType": "Entity",
+    "name": "Pink Heart",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "97051dad-eff8-97da-647e-0d50b9fc8803",
+      "b": ""
+    },
+    "objGuid": "Guid(8595001005390864716, 8071341846421637778)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "1ede6344-3d3d-5205-5c0f-b657a8696bdc"
+  },
+  {
+    "guid": {
+      "a": "eca9e0ed-4972-4392-1fdf-bca5bcca5281",
+      "b": ""
+    },
+    "objGuid": "Guid(14214966224731919849, 14786919766317928112)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "abe64e01-6638-abe7-c85b-e6d6060126a2",
+    "targetProperty": "Albedo",
+    "playMode": 0
   }
 ]
