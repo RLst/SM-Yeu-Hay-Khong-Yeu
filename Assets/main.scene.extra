@@ -275,6 +275,33 @@
   },
   {
     "guid": {
+      "a": "b28e8c99-1c5c-7a99-9b23-9f74d54efe36",
+      "b": ""
+    },
+    "objGuid": "Guid(17099194854748068687, 18060242978809510053)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "83e28d94-8c1d-268a-c9a5-7556c2734b73",
       "b": ""
     },
@@ -1260,5 +1287,38 @@
     "editable": true,
     "advanced": false,
     "texture": "979b8a44-1514-958c-7630-2160a4c42bbe"
+  },
+  {
+    "guid": {
+      "a": "6ced9723-dc45-fed9-205b-e0dd00be9630",
+      "b": ""
+    },
+    "objGuid": "Guid(15514119926916539180, 17701684117419654571)",
+    "extraType": "Entity",
+    "name": "Bias Arrow",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "f6111d64-a546-5108-e1ba-18255eb3f72b",
+      "b": ""
+    },
+    "objGuid": "Guid(814212044575783319, 15866811974554143154)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "2d7db52e-7786-56d0-70c5-d6f30c3ecd63"
   }
 ]
