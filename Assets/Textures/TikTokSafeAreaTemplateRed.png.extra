@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "f1157d2c-d500-731b-3ceb-cb39ecf4875a",
+      "a": "c29c135e-0acc-179f-e718-f2506e3dd903",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "top center",
-    "objGuid": "Guid(1390968595263460640, 1031583914945872788)",
+    "name": "TikTokSafeAreaTemplateRed",
+    "objGuid": "Guid(12701122749156034347, 11838577274049850278)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

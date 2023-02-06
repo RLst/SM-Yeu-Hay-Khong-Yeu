@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "82aac415-9287-460e-d6e0-ae623be888ea",
+      "a": "12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "left heart",
-    "objGuid": "Guid(7873676409424396556, 15560445377077452179)",
+    "name": "couple inwards",
+    "objGuid": "Guid(10182068234871974418, 5325116843945105573)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512
   }
 ]
