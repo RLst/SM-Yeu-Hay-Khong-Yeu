@@ -1,0 +1,54 @@
+{
+	"name": "Make Array",
+	"id": "577b2eb1-ee93-4754-74d4-551e420df32b",
+	"inputs": [
+		{
+			"name": "Item 0",
+			"description": "The first item in the array",
+			"dynamic": true,
+			"type": "Double",
+			"displayType": "Number"
+		},
+		{
+			"name": "Item 1",
+			"description": "The second item in the array",
+			"dynamic": true,
+			"type": "Double",
+			"displayType": "Number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "New",
+			"generic": "T",
+			"description": "The new array that contains all the input items",
+			"dynamic": true,
+			"type": "Array",
+			"displayType": "T Array"
+		}
+	],
+	"supportedValueTypes": [
+		"Double",
+		"Bool",
+		"String",
+		"Rect",
+		"Vector2f",
+		"Vector3f",
+		"Vector4f",
+		"Color",
+		"Texture2D"
+	],
+	"addableInput": {
+		"index": 1,
+		"baseName": "Item ",
+		"increaseStartIndex": 2
+	},
+	"js": "CGMakeArray.js",
+	"category": "Utility",
+	"version": "1.0.0",
+	"description": "Create multiple items and add them to an array. You can click \"+\" to add more items. All types of variables are supported.",
+	"productTypes": [
+		"TTEH"
+	],
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Array/Make-Array"
+}

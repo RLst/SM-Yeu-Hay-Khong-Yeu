@@ -1,0 +1,50 @@
+{
+	"name": "Get Item from Array",
+	"id": "834af7d5-45f8-a01d-7956-f3hxb9f77efa",
+	"inputs": [
+		{
+			"name": "Index",
+			"type": "Int",
+			"item_type": "",
+			"displayType": "Number",
+			"description": "The index of the item location in the array. 0 is the first item."
+		},
+		{
+			"name": "T Array",
+			"generic": "T",
+			"description": "The input array to get the item from",
+			"dynamic": true,
+			"type": "Array",
+			"displayType": "T Array"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Item",
+			"type": "Double",
+			"dynamic": true,
+			"item_type": "",
+			"displayType": "Number",
+			"description": "The item in the input array according to the index position"
+		}
+	],
+	"supportedValueTypes": [
+		"Double",
+		"Bool",
+		"String",
+		"Rect",
+		"Vector2f",
+		"Vector3f",
+		"Vector4f",
+		"Color",
+		"Texture2D"
+	],
+	"js": "CGGetItemFromArray.js",
+	"version": "2.0.0",
+	"category": "Utility",
+	"description": "Get a specific item from an array, supports all variables types.",
+	"productTypes": [
+		"TTEH"
+	],
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Utility/Get-Item-from-Array"
+}

@@ -5,7 +5,7 @@
       "b": ""
     },
     "extraType": "ResItemFolder",
-    "name": "Text",
+    "name": "text",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false
