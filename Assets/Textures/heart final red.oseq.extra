@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "heart final red",
-    "objGuid": "Guid(382473781744085593, 1509302708111024290)",
+    "objGuid": "Guid(18034493559276096142, 7659906891294236083)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

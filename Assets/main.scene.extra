@@ -885,6 +885,33 @@
   },
   {
     "guid": {
+      "a": "6914d9bc-1253-8ffc-d0f4-b0a9974e415f",
+      "b": ""
+    },
+    "objGuid": "Guid(3553269118990505184, 10160419954973911951)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "910ffade-072a-6d7e-3863-8fb1980d7933",
       "b": ""
     },
@@ -943,33 +970,6 @@
       "b": ""
     },
     "objGuid": "Guid(12845721181422858764, 3738495189757326766)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "6914d9bc-1253-8ffc-d0f4-b0a9974e415f",
-      "b": ""
-    },
-    "objGuid": "Guid(3553269118990505184, 10160419954973911951)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -1114,6 +1114,25 @@
   },
   {
     "guid": {
+      "a": "20f9dd72-bf3a-2d23-4265-cee9cad5730d",
+      "b": ""
+    },
+    "objGuid": "Guid(16955658692477528677, 1664508153614189722)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "e574233d-a6d5-363b-9b31-ef816c9a2713",
+    "targetProperty": "Albedo",
+    "playMode": 0
+  },
+  {
+    "guid": {
       "a": "2833a5d2-ab3f-c0c6-7a54-74dd0dfcef9e",
       "b": ""
     },
@@ -1197,6 +1216,25 @@
     "expanded": true,
     "editable": true,
     "sequence": "82aac415-9287-460e-d6e0-ae623be888ea",
+    "targetProperty": "Albedo",
+    "playMode": 1
+  },
+  {
+    "guid": {
+      "a": "04b78e8d-e57d-f992-4a16-2bd135491b68",
+      "b": ""
+    },
+    "objGuid": "Guid(2972790039911519470, 8507511955142407867)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "e574233d-a6d5-363b-9b31-ef816c9a2713",
     "targetProperty": "Albedo",
     "playMode": 1
   },
@@ -1517,7 +1555,7 @@
     },
     "objGuid": "Guid(1389323162718274698, 432237441070570370)",
     "extraType": "Entity",
-    "name": "Heart Merge Point",
+    "name": "Final Merge Point",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1592,7 +1630,7 @@
     "expanded": true,
     "editable": true,
     "sequence": "e574233d-a6d5-363b-9b31-ef816c9a2713",
-    "targetProperty": "Albedo",
+    "targetProperty": "None",
     "playMode": 0
   },
   {

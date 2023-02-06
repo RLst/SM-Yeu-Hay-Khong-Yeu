@@ -5,8 +5,8 @@
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "l cl co tinh tha tim cau khong do",
-    "objGuid": "Guid(2398808405476658006, 14329460788230663317)",
+    "name": "lv co tinh tha tim cau khong do",
+    "objGuid": "Guid(15296367323875736670, 5424967720032230543)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

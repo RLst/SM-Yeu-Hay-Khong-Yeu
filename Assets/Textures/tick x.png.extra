@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "tick x",
-    "objGuid": "Guid(2832213764639257545, 5186648975848393148)",
+    "objGuid": "Guid(379259773295163336, 3132150503592860033)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

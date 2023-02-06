@@ -5,8 +5,8 @@
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "l cl bon tre khong the thieu kem",
-    "objGuid": "Guid(16375717244950201344, 7557825003886545051)",
+    "name": "lv bon tre khong the thieu kem",
+    "objGuid": "Guid(10398153804767139438, 4323874634073291911)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -5,8 +5,8 @@
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "st e khong phai la xau",
-    "objGuid": "Guid(8380419546587569795, 3613433367189392310)",
+    "name": "nf e khong phai la xau",
+    "objGuid": "Guid(3912526468824282733, 2650946813084294838)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
