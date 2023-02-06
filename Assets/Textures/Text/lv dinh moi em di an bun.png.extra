@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "140741d0-8273-a62d-70cd-6f2034b883f0",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "lv dinh moi em di an bun",
+    "objGuid": "Guid(8448798390088833623, 11339521870840082829)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

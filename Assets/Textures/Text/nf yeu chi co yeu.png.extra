@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "edd0141f-b510-8a30-a051-792a5f499a50",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "st yeu chi co yeu",
+    "objGuid": "Guid(15874555029567182255, 614780718338818995)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

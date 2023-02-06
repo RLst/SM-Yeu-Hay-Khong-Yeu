@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "ba4d31b1-f393-71a4-c50c-bd906d08a5da",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "st tui e vi tu te",
+    "objGuid": "Guid(15368702076948469810, 12013726936631343806)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

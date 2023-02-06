@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "89866dad-4ec6-91a4-188c-a9fcf73f453d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "st e khong phai la xau",
+    "objGuid": "Guid(8380419546587569795, 3613433367189392310)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

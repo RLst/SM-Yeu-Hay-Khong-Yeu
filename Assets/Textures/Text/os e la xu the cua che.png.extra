@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "7d01202b-3f81-cd51-fa1a-0c1b6950d370",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "os e la xu the cua che",
+    "objGuid": "Guid(4630090634088690457, 16984491230260379026)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

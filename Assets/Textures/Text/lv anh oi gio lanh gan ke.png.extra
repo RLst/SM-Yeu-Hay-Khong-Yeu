@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "c95f0a66-fc0c-3d15-bc3e-c53383651dd1",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "l cl anh oi gio lanh gan ke",
+    "objGuid": "Guid(7009346232992641297, 17676867053239687819)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

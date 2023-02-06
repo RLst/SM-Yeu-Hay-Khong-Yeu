@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "5b4bfc65-3534-d18f-e65d-e07d193c8dfe",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "st dang tap yeu ban than",
+    "objGuid": "Guid(1100564712680698643, 15186688744678757277)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

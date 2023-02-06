@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "1fbd1f95-0434-e4f6-5cb4-349180483367",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "New Folder",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

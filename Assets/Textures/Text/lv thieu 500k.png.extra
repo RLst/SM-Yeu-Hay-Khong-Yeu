@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "748a4ee4-8324-3562-b554-6d9a65a23c6e",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "lv thieu 500k",
+    "objGuid": "Guid(3409184441874362881, 8776776624653182141)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

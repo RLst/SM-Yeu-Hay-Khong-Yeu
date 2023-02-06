@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "602de572-2519-3ec7-4fc3-65e02e216e96",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "l cl anh oi em noi that long",
+    "objGuid": "Guid(13351988661656741988, 11110893096949897374)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

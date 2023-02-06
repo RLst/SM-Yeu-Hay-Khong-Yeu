@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "c15c70bc-7eeb-4f7c-338e-dca553e15aee",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "lv nay em oi cho anh hoi nho",
+    "objGuid": "Guid(11907733482859884638, 6755255078462067645)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

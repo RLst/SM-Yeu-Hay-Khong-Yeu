@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "7856fd9e-a413-516b-4682-a2b9b1ce1c13",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "os ng ta dinh phot ngoai tinh",
+    "objGuid": "Guid(5351167327495037129, 11286368391779961492)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

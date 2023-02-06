@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "e7285866-608b-6358-e95d-79ac9c282cd3",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "l+ anh oi em thich dong ho",
+    "objGuid": "Guid(6361978088184404662, 10894493922171212726)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "51f8818a-a157-d19d-814f-e45329cb2f2c",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "os chim thieu an",
+    "objGuid": "Guid(9532866267209808274, 6004113945963645875)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
