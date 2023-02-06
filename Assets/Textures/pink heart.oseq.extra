@@ -6,13 +6,13 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "pink heart",
-    "objGuid": "Guid(6722279328253400231, 449790207359575446)",
+    "objGuid": "Guid(15080225872748287569, 8322206152877377678)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 512
+    "maxResolution": 256
   }
 ]

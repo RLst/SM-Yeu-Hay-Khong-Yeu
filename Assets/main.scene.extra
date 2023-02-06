@@ -1224,7 +1224,7 @@
     "displayKey": "inspector_add_handtracker",
     "expanded": true,
     "editable": true,
-    "anchor": 1,
+    "anchor": 0,
     "advancedSetting": true,
     "distance": 14,
     "rotateZ": false
@@ -1307,7 +1307,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "b0312bb0-43df-f8ce-31ed-4da368bd902e"
+    "texture": "f1157d2c-d500-731b-3ceb-cb39ecf4875a"
   },
   {
     "guid": {

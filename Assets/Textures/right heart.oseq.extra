@@ -6,13 +6,13 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "right heart",
-    "objGuid": "Guid(15727379700259521753, 6563537890174517416)",
+    "objGuid": "Guid(5281942773916311245, 927878944345246)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 512
+    "maxResolution": 256
   }
 ]
