@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "e51aee3d-c394-cf31-8c73-db2b6f57d813",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "gesture hand heart",
+    "objGuid": "Guid(8089668477842546060, 12916305000386710440)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

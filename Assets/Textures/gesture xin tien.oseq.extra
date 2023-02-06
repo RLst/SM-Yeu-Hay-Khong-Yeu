@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "6561bc71-4e04-0b7a-c04d-c48683082e35",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "gesture xin tien",
+    "objGuid": "Guid(14938168949468046638, 10645019273546579894)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]
