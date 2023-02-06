@@ -750,6 +750,33 @@
   },
   {
     "guid": {
+      "a": "910ffade-072a-6d7e-3863-8fb1980d7933",
+      "b": ""
+    },
+    "objGuid": "Guid(17169573039256424916, 11427270967443436217)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "5c9c109d-69e7-b401-f87c-b3329b6c824f",
       "b": ""
     },
@@ -781,33 +808,6 @@
       "b": ""
     },
     "objGuid": "Guid(12845721181422858764, 3738495189757326766)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "910ffade-072a-6d7e-3863-8fb1980d7933",
-      "b": ""
-    },
-    "objGuid": "Guid(17169573039256424916, 11427270967443436217)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -896,7 +896,7 @@
     },
     "objGuid": "Guid(12559764711711806033, 11587615005309511078)",
     "extraType": "Entity",
-    "name": "Face Sticker (0)",
+    "name": "Head Heart 0",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -954,9 +954,9 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "d7e7df00-064d-005d-cb4d-0d1cf93e0949",
+    "sequence": "82aac415-9287-460e-d6e0-ae623be888ea",
     "targetProperty": "Albedo",
-    "playMode": 3
+    "playMode": 1
   },
   {
     "guid": {
@@ -973,9 +973,9 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "85ac4e06-bd1e-1c39-0a48-ca8803c9bd87",
+    "sequence": "bd2e2bee-0ceb-b706-e8a3-be9af6c06362",
     "targetProperty": "Albedo",
-    "playMode": 3
+    "playMode": 1
   },
   {
     "guid": {
@@ -984,7 +984,7 @@
     },
     "objGuid": "Guid(9676083829917420017, 3340916977582981770)",
     "extraType": "Entity",
-    "name": "Face Sticker (1)",
+    "name": "Head Heart 1",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1042,9 +1042,9 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "85ac4e06-bd1e-1c39-0a48-ca8803c9bd87",
+    "sequence": "bd2e2bee-0ceb-b706-e8a3-be9af6c06362",
     "targetProperty": "Albedo",
-    "playMode": 3
+    "playMode": 1
   },
   {
     "guid": {
@@ -1061,9 +1061,9 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "d7e7df00-064d-005d-cb4d-0d1cf93e0949",
+    "sequence": "82aac415-9287-460e-d6e0-ae623be888ea",
     "targetProperty": "Albedo",
-    "playMode": 3
+    "playMode": 1
   },
   {
     "guid": {
@@ -1415,7 +1415,7 @@
     },
     "objGuid": "Guid(8305132245439505597, 17403543839523312795)",
     "extraType": "Entity",
-    "name": "Pink Heart",
+    "name": "Final Heart",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1456,7 +1456,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "abe64e01-6638-abe7-c85b-e6d6060126a2",
+    "sequence": "e574233d-a6d5-363b-9b31-ef816c9a2713",
     "targetProperty": "Albedo",
     "playMode": 0
   }

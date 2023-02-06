@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "d7e7df00-064d-005d-cb4d-0d1cf93e0949",
+      "a": "82aac415-9287-460e-d6e0-ae623be888ea",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
     "name": "left heart",
-    "objGuid": "Guid(7658536622263303127, 4333668311560486785)",
+    "objGuid": "Guid(7873676409424396556, 15560445377077452179)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
-    "maxResolution": 256
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
   }
 ]

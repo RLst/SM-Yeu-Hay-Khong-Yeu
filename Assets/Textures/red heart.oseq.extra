@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "bd2e2bee-0ceb-b706-e8a3-be9af6c06362",
+      "a": "e574233d-a6d5-363b-9b31-ef816c9a2713",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "right heart",
-    "objGuid": "Guid(12268643417975429152, 10411725881813643957)",
+    "name": "red heart",
+    "objGuid": "Guid(15729511011994060730, 4688664162881330056)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
