@@ -152,7 +152,7 @@ entities:
         resolutionSize: {x: 720, y: 1280}
     layer: 1
   - __class: Entity
-    name: Confirmed
+    name: Prompt Confirmed
     guid: {a: 6001891680390166228, b: 8878086272873467269}
     scene: {localId: 1}
     selfvisible: true
@@ -203,7 +203,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Enough
+    name: Prompt Enough
     guid: {a: 8234821091583601486, b: 5064371192890800557}
     scene: {localId: 1}
     selfvisible: true
@@ -254,7 +254,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Prompt
+    name: Prompt Not Enough
     guid: {a: 9605103065143240892, b: 10558650202110559422}
     scene: {localId: 1}
     selfvisible: true
@@ -276,8 +276,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/5bea333d-0790-0dff-2637-525d0d7a6aa5/1.png}
-        imageAtlas: {localId: 1, path: 5bea333d-0790-0dff-2637-525d0d7a6aa5--1.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/5bea333d-0790-0dff-2637-525d0d7a6aa5/2.png}
+        imageAtlas: {localId: 1, path: 5bea333d-0790-0dff-2637-525d0d7a6aa5--2.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -626,8 +626,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/bd2e2bee-0ceb-b706-e8a3-be9af6c06362/0.png}
-        imageAtlas: {localId: 1, path: bd2e2bee-0ceb-b706-e8a3-be9af6c06362--0.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/bd2e2bee-0ceb-b706-e8a3-be9af6c06362/1.png}
+        imageAtlas: {localId: 1, path: bd2e2bee-0ceb-b706-e8a3-be9af6c06362--1.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
