@@ -6,13 +6,13 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "heart final red",
-    "objGuid": "Guid(15729511011994060730, 4688664162881330056)",
+    "objGuid": "Guid(382473781744085593, 1509302708111024290)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
-    "quality": 1,
-    "maxResolution": 256
+    "quality": 2,
+    "maxResolution": 512
   }
 ]

@@ -6,13 +6,13 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "prompt couple inwards",
-    "objGuid": "Guid(10182068234871974418, 5325116843945105573)",
+    "objGuid": "Guid(7444177190677755415, 6051091307256915603)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512
   }
 ]

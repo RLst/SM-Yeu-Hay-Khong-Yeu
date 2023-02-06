@@ -6,13 +6,13 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "prompt arrow inwards",
-    "objGuid": "Guid(523330888313044099, 6977868003898588288)",
+    "objGuid": "Guid(2255607522070023417, 4239427884517642686)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512
   }
 ]
