@@ -6,11 +6,11 @@
     },
     "extraType": "ResItemMaterialOmtl",
     "name": "FaceMaskWhole",
-    "objGuid": "Guid(4489713761713955575, 12094012694687120800)",
+    "objGuid": "Guid(12271207263786234030, 16601377017917639081)",
     "rttiType": "Material",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": true,
-    "skinObjGuid": "Guid(7011795927398622828, 4989839392437028508)"
+    "skinObjGuid": "Guid(1173413013736897129, 17523465487794665905)"
   }
 ]

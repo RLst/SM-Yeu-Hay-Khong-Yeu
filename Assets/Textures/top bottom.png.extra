@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "748a4ee4-8324-3562-b554-6d9a65a23c6e",
+      "a": "2acdf0a2-a5fa-601f-bb3f-661c5d67a822",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "lv thieu 500k",
-    "objGuid": "Guid(7007847295193648920, 16403905012311755146)",
+    "name": "top bottom",
+    "objGuid": "Guid(12846027600549357531, 2575769835923463352)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

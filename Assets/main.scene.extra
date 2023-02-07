@@ -599,6 +599,33 @@
   },
   {
     "guid": {
+      "a": "6d6104dc-b1cd-6dd0-cf54-6c818ba351e9",
+      "b": ""
+    },
+    "objGuid": "Guid(6216990565795593263, 2312353207268214194)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "126b6a30-e5b9-cab0-f70b-a22236b0731d",
       "b": ""
     },
@@ -669,7 +696,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -702,7 +729,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1434,7 +1461,7 @@
     "expanded": true,
     "editable": true,
     "sequence": "e574233d-a6d5-363b-9b31-ef816c9a2713",
-    "targetProperty": "None",
+    "targetProperty": "Albedo",
     "playMode": 0
   },
   {
@@ -1710,5 +1737,38 @@
     "editable": true,
     "advanced": true,
     "texture": "a7acd53f-20ec-a855-0fb1-e4879cc4e9b2"
+  },
+  {
+    "guid": {
+      "a": "74d57b75-45b5-a32b-c6b0-e96dd5a76843",
+      "b": ""
+    },
+    "objGuid": "Guid(15656693966909052395, 4536344121879904941)",
+    "extraType": "Entity",
+    "name": "Top Bottom",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "7d522c20-f42b-902e-f020-d549805656cb",
+      "b": ""
+    },
+    "objGuid": "Guid(12920079577122419545, 6190683041336900488)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "2acdf0a2-a5fa-601f-bb3f-661c5d67a822"
   }
 ]
