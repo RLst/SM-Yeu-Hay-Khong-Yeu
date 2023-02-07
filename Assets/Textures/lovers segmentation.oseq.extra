@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "1433da75-1b93-4f6d-06ce-999728b9e30a",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "lovers segmentation",
+    "objGuid": "Guid(13568125178265233436, 12968964903151454875)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 256
+  }
+]
