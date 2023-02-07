@@ -1,0 +1,44 @@
+{
+	"name": "Speaker",
+	"id": "03cd6d30-fd31-3a17-40a8-c8b237afb900",
+	"inputs": [
+		{
+			"name": "Audio",
+			"type": "Audio Stream",
+			"description": "The audio source you want to use in the effect",
+			"displayType": "Audio Stream"
+		},
+		{
+			"name": "Volume",
+			"description": "The volume of the audio stream. Value range: 0 (silence) to 100 (max).",
+			"type": "Double",
+			"displayType": "Number",
+			"default_value": 100,
+			"range": [
+				[
+					0,
+					100,
+					1
+				]
+			]
+		}
+	],
+	"outputs": [],
+	"audioNodeName": "SinkNode",
+	"scriptSupport": "js",
+	"js": "CGAudioSpeaker.js",
+	"category": "Audio",
+	"SDKVersion": "10.5.0",
+	"description": "Play the audio stream with volume control.",
+	"productTypes": [
+		"TTEH",
+		"InUse"
+	],
+	"nodeEvent": [
+		"onUpdate",
+		"beforeStart"
+	],
+	"builtinClass": "AudioGeneralNode",
+	"version": "2.0.0",
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Audio/Speaker"
+}

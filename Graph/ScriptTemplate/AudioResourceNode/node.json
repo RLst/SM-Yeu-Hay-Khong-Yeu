@@ -1,0 +1,37 @@
+{
+	"name": "Audio Resource",
+	"id": "2179790b-1532-13df-1b60-247d68ade260",
+	"inputs": [
+		{
+			"name": "",
+			"type": "AudioClip",
+			"description": "The input audio source",
+			"visible": false,
+			"displayType": "Audio Clip"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Audio Resource",
+			"type": "Audio Source",
+			"description": "The audio source. Connect it to an Audio Resource Controller to play.",
+			"displayType": "Audio Source"
+		}
+	],
+	"scriptSupport": "js",
+	"js": "CGAudioResourceNode.js",
+	"category": "Audio",
+	"nodeEvent": [
+		"beforeStart"
+	],
+	"description": "Select the audio source.",
+	"productTypes": [
+		"TTEH",
+		"InUse"
+	],
+	"containResource": true,
+	"builtinClass": "AudioGeneralNode",
+	"audioNodeName": "FileSourceNode",
+	"version": "1.0.0",
+	"onlineWebsite": "https://effecthouse.tiktok.com/learn/visual-scripting/Audio/Audio-Resource"
+}
