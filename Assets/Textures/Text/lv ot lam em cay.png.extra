@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "c39630ae-8870-8948-5448-2751fbcb0e96",
+      "a": "eca586f5-d400-5faf-84ed-e44c0f3e07fb",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "lv ot lam em cay",
-    "objGuid": "Guid(11694181553424667703, 8799937069923799205)",
+    "objGuid": "Guid(6722056211378272204, 6769397312026469803)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

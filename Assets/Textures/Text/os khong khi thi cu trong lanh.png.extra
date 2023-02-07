@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "89866dad-4ec6-91a4-188c-a9fcf73f453d",
+      "a": "cac62f48-409a-c1b8-5b82-a9084594eff3",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "nf e khong phai la xau",
-    "objGuid": "Guid(16665343528824454752, 15995953875649292206)",
+    "name": "os khong khi thi cu trong lanh",
+    "objGuid": "Guid(6359976273896031604, 9797025075830608553)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

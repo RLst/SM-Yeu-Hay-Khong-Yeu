@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "c95f0a66-fc0c-3d15-bc3e-c53383651dd1",
+      "a": "fd72beee-7151-c196-0022-8c28acfe1c0f",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "lv anh oi gio lanh gan ke",
-    "objGuid": "Guid(5497253601422639511, 18442422482443697795)",
+    "name": "st tui e vi tu te",
+    "objGuid": "Guid(11188322559808176495, 15570781694496786600)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

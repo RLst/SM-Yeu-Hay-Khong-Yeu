@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "0c5de125-3b5b-8bfe-45e6-bc4b4e92fb68",
+      "a": "355d4202-bba0-6322-5935-44e35c3628f3",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "os qua tot nen khong ai hot",
-    "objGuid": "Guid(16595262951575753996, 16375025966839521430)",
+    "objGuid": "Guid(12124367896619160401, 14964923473838241926)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

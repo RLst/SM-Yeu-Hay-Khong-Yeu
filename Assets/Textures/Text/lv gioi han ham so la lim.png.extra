@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "30a3c860-59a0-7fb5-8366-ae11457fda43",
+      "a": "025f2c1b-f02d-1ab7-5189-3b9f7ff25cb8",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "lv gioi han ham so la lim",
-    "objGuid": "Guid(15223873794839101325, 4231294529788324274)",
+    "objGuid": "Guid(11839160658791845754, 1189816731914648470)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

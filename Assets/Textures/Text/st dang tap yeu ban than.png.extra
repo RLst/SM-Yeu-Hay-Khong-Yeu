@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "602de572-2519-3ec7-4fc3-65e02e216e96",
+      "a": "31d064bd-ba9b-ecb6-3c3b-43cb8504b07e",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "lv anh oi em noi that long",
-    "objGuid": "Guid(16231526685679625450, 13346281616990528408)",
+    "name": "st dang tap yeu ban than",
+    "objGuid": "Guid(813967346510279017, 1838582181710717628)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "ba4d31b1-f393-71a4-c50c-bd906d08a5da",
+      "a": "b7468f9b-c76d-ef58-d151-204dfc4e9c81",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "nf tui e vi tu te",
-    "objGuid": "Guid(7368579586378135165, 15912651147086973100)",
+    "name": "st yeu chi co yeu",
+    "objGuid": "Guid(12703857379291072466, 8233589449141215638)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

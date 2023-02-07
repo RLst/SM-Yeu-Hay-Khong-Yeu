@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "bf68c702-5c95-3dc8-ac2e-de335d449f5e",
+      "a": "c8268405-e8ff-7699-b962-1ba0f9826490",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "lv em day khong thich hoa dao",
-    "objGuid": "Guid(1245680348282754472, 6246923979940553092)",
+    "objGuid": "Guid(12268133381373562054, 13388383371197809331)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

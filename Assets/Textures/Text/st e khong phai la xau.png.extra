@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "140741d0-8273-a62d-70cd-6f2034b883f0",
+      "a": "15ecacb5-a4a0-9225-bd25-bebf67814d91",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "lv dinh moi em di an bun",
-    "objGuid": "Guid(12703544321891620073, 689827978809139646)",
+    "name": "st e khong phai la xau",
+    "objGuid": "Guid(9964684099408782471, 8724259370281310880)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

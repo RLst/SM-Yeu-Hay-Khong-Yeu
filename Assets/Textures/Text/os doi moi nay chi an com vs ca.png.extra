@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "b71f1c28-68aa-d9e3-3420-66af3c3d5db5",
+      "a": "d44d8221-7274-7865-417b-00ae7e7cde89",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "os doi moi nay chi an com vs ca",
-    "objGuid": "Guid(10398370093493469507, 16294626564600768132)",
+    "objGuid": "Guid(12559849090582842279, 5844588731894815934)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

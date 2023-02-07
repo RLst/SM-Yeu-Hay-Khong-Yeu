@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "dfc04c31-7630-5a48-5619-c54b62353c0d",
+      "a": "5f20a059-d940-3ccd-f49c-f62c0a8d6fbf",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "os cuoc song that lam xo bo",
-    "objGuid": "Guid(15439959859447318099, 3783729817538001033)",
+    "objGuid": "Guid(7083764602944923866, 9387984038650534042)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

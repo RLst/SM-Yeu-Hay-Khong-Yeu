@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "c01009a6-f123-e2e6-5501-0482f4bab676",
+      "a": "d600314a-a2fb-1ece-a95b-13b6ad73c993",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "os em ko can iphone",
-    "objGuid": "Guid(8883859604953453080, 4377395602390709691)",
+    "objGuid": "Guid(4558832795471913066, 17462854750579552651)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

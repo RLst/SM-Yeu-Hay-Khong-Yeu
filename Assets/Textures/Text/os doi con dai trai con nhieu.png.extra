@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "f05fad3f-1a73-c3c8-4f5b-603f5839cc13",
+      "a": "8392f9ce-b223-2d43-56d5-f8663f209a78",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "os doi con dai trai con nhieu",
-    "objGuid": "Guid(16951897087308131767, 15112727597368322693)",
+    "objGuid": "Guid(8811284304939875350, 12475165837421765761)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

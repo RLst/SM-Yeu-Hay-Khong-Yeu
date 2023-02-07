@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "7d01202b-3f81-cd51-fa1a-0c1b6950d370",
+      "a": "b75730e7-920b-74a9-4ecf-d016373518d1",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "os e la xu the cua che",
-    "objGuid": "Guid(6938142602912203594, 13006727405710509186)",
+    "name": "lv tinh cam mai dong day",
+    "objGuid": "Guid(7009269652348625562, 7265610519206102668)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

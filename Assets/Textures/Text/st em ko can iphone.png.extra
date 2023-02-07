@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "7c3cec98-d586-8fba-5872-da0fc16adfa4",
+      "a": "8d3ed8df-3cb2-476c-5e76-9ea4dec252f0",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "os tui day chang thich ngon tinh",
-    "objGuid": "Guid(14793053591666465310, 18050469145911166107)",
+    "name": "st em ko can iphone",
+    "objGuid": "Guid(3551666020941982858, 4007513008667348613)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

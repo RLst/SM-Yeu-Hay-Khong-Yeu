@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "7a46a484-ad24-0ad3-9baa-c40c9084a976",
+      "a": "f6ede2bb-fddb-0cac-b00a-7e44f8a054f5",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "lv long kia em de ngot chim",
-    "objGuid": "Guid(13206318633251472621, 16365300939950351506)",
+    "name": "st ng ta dinh phot ngoai tinh",
+    "objGuid": "Guid(15439330350991757739, 3746427292509626027)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

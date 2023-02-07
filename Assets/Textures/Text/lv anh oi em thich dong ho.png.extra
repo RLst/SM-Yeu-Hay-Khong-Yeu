@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "e7285866-608b-6358-e95d-79ac9c282cd3",
+      "a": "7aa4d989-ab20-6d8e-31de-2c1464c84977",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "lv anh oi em thich dong ho",
-    "objGuid": "Guid(7368583611708665982, 5465585380013488305)",
+    "objGuid": "Guid(12415996614136175153, 11027853286453394594)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "5b4bfc65-3534-d18f-e65d-e07d193c8dfe",
+      "a": "ea5684c5-c889-5c89-d246-aa42ee4fc066",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "nf dang tap yeu ban than",
-    "objGuid": "Guid(6074308867737911703, 7967261635416412049)",
+    "name": "lv chuc 2 ban",
+    "objGuid": "Guid(14935730346187154862, 7045078751861306765)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

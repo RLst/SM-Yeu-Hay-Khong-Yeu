@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "a12098f6-a23d-bd02-a12c-11e5293c200e",
+      "a": "202b6716-6028-8991-b18e-2b3836b85cb7",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "lv bon tre khong the thieu kem",
-    "objGuid": "Guid(13277825982043290136, 3625018499427059885)",
+    "objGuid": "Guid(6291398847782833714, 18079071280601803675)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

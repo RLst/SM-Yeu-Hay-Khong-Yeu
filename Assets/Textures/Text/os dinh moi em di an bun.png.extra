@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "c15c70bc-7eeb-4f7c-338e-dca553e15aee",
+      "a": "676e4d40-25a3-d443-aa6b-c5218da0c86a",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "lv nay em oi cho anh hoi nho",
-    "objGuid": "Guid(6577465890223682983, 11988640410838591155)",
+    "name": "os dinh moi em di an bun",
+    "objGuid": "Guid(6863946131047205844, 7463914588131487618)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

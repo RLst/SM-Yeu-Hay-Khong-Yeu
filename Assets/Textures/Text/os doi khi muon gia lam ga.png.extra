@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "6cfcb560-49a0-2c83-c2af-0bc507ac97c1",
+      "a": "49e87bf7-3520-e8c9-794a-10c6816728d0",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "os doi khi muon gia lam ga",
-    "objGuid": "Guid(18032607018684253293, 5369438887639683258)",
+    "objGuid": "Guid(17962039324684434436, 3244314401269847169)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

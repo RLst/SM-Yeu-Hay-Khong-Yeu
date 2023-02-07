@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "edd0141f-b510-8a30-a051-792a5f499a50",
+      "a": "9e1d65f0-49ab-8e6d-012a-37fc7f862a54",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "nf yeu chi co yeu",
-    "objGuid": "Guid(3334851097003296232, 14198280855796172476)",
+    "name": "os nay em oi",
+    "objGuid": "Guid(13134915202649585504, 10292514816559731338)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

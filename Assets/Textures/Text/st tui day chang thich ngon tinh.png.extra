@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "7a46a484-ad24-0ad3-9baa-c40c9084a976",
+      "a": "4d41b93b-6376-4ca9-bf99-6c7e073837b5",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "lv long kia em de ngot chim",
-    "objGuid": "Guid(13206318633251472621, 16365300939950351506)",
+    "name": "st tui day chang thich ngon tinh",
+    "objGuid": "Guid(884519441441366734, 4712881825686055043)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

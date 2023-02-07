@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "eba56c55-bf76-2be4-ce1e-a8e0ed0e501b",
+      "a": "23ba037d-a3f0-eb39-eabf-1c91121a7f54",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "nf song mot minh van tot",
-    "objGuid": "Guid(10181868415752450030, 15135460282415262085)",
+    "name": "result bg",
+    "objGuid": "Guid(1318855736548835540, 17734526377510830995)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,
