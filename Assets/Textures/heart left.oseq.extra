@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "82aac415-9287-460e-d6e0-ae623be888ea",
+      "a": "c9ff49fa-6f44-1400-27e9-9787d217efe5",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
     "name": "heart left",
-    "objGuid": "Guid(10973411327940317953, 12730611375599322289)",
+    "objGuid": "Guid(4704798082825993845, 17907847055184186043)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 512
+    "maxResolution": 256
   }
 ]

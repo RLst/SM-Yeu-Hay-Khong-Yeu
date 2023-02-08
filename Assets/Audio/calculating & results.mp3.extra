@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "cf444cd6-2b52-470f-3080-9246877f91f4",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "calculating & results",
+    "objGuid": "Guid(15296367831753243660, 9042494526710718348)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

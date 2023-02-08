@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "e75089e2-d6b2-d884-f6e8-8ad137283476",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "enough faces",
+    "objGuid": "Guid(18320941070849757956, 9272878512069004198)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

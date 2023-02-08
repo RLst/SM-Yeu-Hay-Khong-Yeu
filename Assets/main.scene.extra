@@ -1,65 +1,6 @@
 [
   {
     "guid": {
-      "a": "e226e120-45c2-df9d-c687-26b0f35cc32b",
-      "b": ""
-    },
-    "objGuid": "Guid(17892678610801857370, 559697082159424149)",
-    "extraType": "Entity",
-    "name": "Camera",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": true,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "06426de3-9794-b596-68f5-ad8b19301597",
-      "b": ""
-    },
-    "objGuid": "Guid(1029434961439008335, 6372224128272086966)",
-    "extraType": "Transform",
-    "name": "Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "Transform",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "component_transform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "c2ac6370-04ab-84d2-9e29-ab5ee8fabb24",
-      "b": ""
-    },
-    "objGuid": "Guid(12556560734000964803, 7508859945702231687)",
-    "extraType": "Camera",
-    "name": "Camera",
-    "rttiType": "Camera",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_camera",
-    "expanded": true,
-    "editable": true,
-    "usage": "Common"
-  },
-  {
-    "guid": {
       "a": "9a9d8627-dd4a-eb18-89d4-aa113c6da202",
       "b": ""
     },
@@ -1218,7 +1159,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "82aac415-9287-460e-d6e0-ae623be888ea",
+    "sequence": "c9ff49fa-6f44-1400-27e9-9787d217efe5",
     "targetProperty": "Albedo",
     "playMode": 1
   },
@@ -1237,7 +1178,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "bd2e2bee-0ceb-b706-e8a3-be9af6c06362",
+    "sequence": "3136c848-a0cb-c903-b729-3eb7d679de04",
     "targetProperty": "Albedo",
     "playMode": 1
   },
@@ -1256,7 +1197,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "e574233d-a6d5-363b-9b31-ef816c9a2713",
+    "sequence": "3bb201ee-5fe0-e335-d92d-b0454bbbfe36",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -1325,7 +1266,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "bd2e2bee-0ceb-b706-e8a3-be9af6c06362",
+    "sequence": "3136c848-a0cb-c903-b729-3eb7d679de04",
     "targetProperty": "Albedo",
     "playMode": 1
   },
@@ -1344,7 +1285,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "82aac415-9287-460e-d6e0-ae623be888ea",
+    "sequence": "c9ff49fa-6f44-1400-27e9-9787d217efe5",
     "targetProperty": "Albedo",
     "playMode": 1
   },
@@ -1363,7 +1304,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "e574233d-a6d5-363b-9b31-ef816c9a2713",
+    "sequence": "3bb201ee-5fe0-e335-d92d-b0454bbbfe36",
     "targetProperty": "Albedo",
     "playMode": 1
   },
@@ -1595,7 +1536,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "e574233d-a6d5-363b-9b31-ef816c9a2713",
+    "sequence": "3bb201ee-5fe0-e335-d92d-b0454bbbfe36",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -2063,7 +2004,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {

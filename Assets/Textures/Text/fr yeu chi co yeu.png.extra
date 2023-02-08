@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "b7468f9b-c76d-ef58-d151-204dfc4e9c81",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "fr yeu chi co yeu",
+    "objGuid": "Guid(17097257085669578490, 10819028781653152645)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "23ba037d-a3f0-eb39-eabf-1c91121a7f54",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "result cloud",
+    "objGuid": "Guid(7586045940853491570, 2381971380868496802)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

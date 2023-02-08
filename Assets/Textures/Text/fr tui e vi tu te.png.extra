@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "fd72beee-7151-c196-0022-8c28acfe1c0f",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "fr tui e vi tu te",
+    "objGuid": "Guid(8521219210943503855, 3294589167088349106)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

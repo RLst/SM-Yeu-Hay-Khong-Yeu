@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "3bb201ee-5fe0-e335-d92d-b0454bbbfe36",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "heart final pink",
+    "objGuid": "Guid(4848465800447439954, 14471623322945600659)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 256
+  }
+]
