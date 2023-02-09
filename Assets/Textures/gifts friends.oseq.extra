@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "a1010ab6-e669-5059-5e83-c34f2ba1c083",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "gifts friends",
+    "objGuid": "Guid(5930496783039857944, 6375606071605024398)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 128
+  }
+]

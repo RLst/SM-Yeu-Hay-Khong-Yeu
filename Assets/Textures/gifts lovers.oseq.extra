@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "18e4d14a-c66f-e450-21ba-5b3caaaacaff",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "gifts lovers",
+    "objGuid": "Guid(13998559847528284946, 1216694401972397195)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 128
+  }
+]
