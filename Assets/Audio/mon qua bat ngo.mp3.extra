@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "mon qua bat ngo",
-    "objGuid": "Guid(11981280048730387457, 4656315170801921428)",
+    "objGuid": "Guid(1606332026109531865, 5708423697126300813)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

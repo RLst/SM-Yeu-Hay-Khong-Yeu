@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "458de1af-1f26-6a4f-7268-29cd31d938bc",
+      "a": "af4f3711-669b-3cd2-01b0-a0760fcee0cc",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
     "name": "gifts",
-    "objGuid": "Guid(8232630593896072353, 17992681803036054691)",
+    "objGuid": "Guid(8881180523147585143, 12987793196336372109)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

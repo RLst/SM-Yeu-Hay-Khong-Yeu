@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "ce1e8533-5258-7027-f99f-beb989c69102",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "shit",
+    "objGuid": "Guid(14791022851725529830, 18173779224660525699)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]
