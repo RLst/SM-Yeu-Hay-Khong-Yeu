@@ -405,6 +405,33 @@
   },
   {
     "guid": {
+      "a": "d69c37c9-c265-c04a-eae0-365c64665f33",
+      "b": ""
+    },
+    "objGuid": "Guid(16090463037344596463, 2355065730202159286)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "8040c9bc-d72c-1361-5f49-0102c62cfb28",
       "b": ""
     },
@@ -913,7 +940,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1267,47 +1294,9 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "c9ff49fa-6f44-1400-27e9-9787d217efe5",
+    "sequence": "90930c20-4c7e-19c2-a72b-854a13e357a8",
     "targetProperty": "Albedo",
     "playMode": 1
-  },
-  {
-    "guid": {
-      "a": "0acab674-2d3c-e31e-a146-6b6e2a7fdad5",
-      "b": ""
-    },
-    "objGuid": "Guid(15874577735780431847, 12092079728894174337)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "component_aniseq",
-    "expanded": true,
-    "editable": true,
-    "sequence": "3136c848-a0cb-c903-b729-3eb7d679de04",
-    "targetProperty": "Albedo",
-    "playMode": 1
-  },
-  {
-    "guid": {
-      "a": "20f9dd72-bf3a-2d23-4265-cee9cad5730d",
-      "b": ""
-    },
-    "objGuid": "Guid(16955658692477528677, 1664508153614189722)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "component_aniseq",
-    "expanded": true,
-    "editable": true,
-    "sequence": "3bb201ee-5fe0-e335-d92d-b0454bbbfe36",
-    "targetProperty": "Albedo",
-    "playMode": 0
   },
   {
     "guid": {
@@ -1374,45 +1363,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "3136c848-a0cb-c903-b729-3eb7d679de04",
-    "targetProperty": "Albedo",
-    "playMode": 1
-  },
-  {
-    "guid": {
-      "a": "8e6b2d82-4676-e841-5dec-407dbb926ab5",
-      "b": ""
-    },
-    "objGuid": "Guid(162521514475318619, 8227089213031256975)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "component_aniseq",
-    "expanded": true,
-    "editable": true,
-    "sequence": "c9ff49fa-6f44-1400-27e9-9787d217efe5",
-    "targetProperty": "Albedo",
-    "playMode": 1
-  },
-  {
-    "guid": {
-      "a": "04b78e8d-e57d-f992-4a16-2bd135491b68",
-      "b": ""
-    },
-    "objGuid": "Guid(2972790039911519470, 8507511955142407867)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "component_aniseq",
-    "expanded": true,
-    "editable": true,
-    "sequence": "3bb201ee-5fe0-e335-d92d-b0454bbbfe36",
+    "sequence": "90930c20-4c7e-19c2-a72b-854a13e357a8",
     "targetProperty": "Albedo",
     "playMode": 1
   },
@@ -1461,7 +1412,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2230,7 +2181,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2299,45 +2250,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "18e4d14a-c66f-e450-21ba-5b3caaaacaff",
-    "targetProperty": "Albedo",
-    "playMode": 1
-  },
-  {
-    "guid": {
-      "a": "977ef692-47f1-1c77-ab2d-8e5b47e8d49c",
-      "b": ""
-    },
-    "objGuid": "Guid(16664457368027808484, 13302077903620999296)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "component_aniseq",
-    "expanded": true,
-    "editable": true,
-    "sequence": "9a26879a-8207-5d8a-e27e-3c2d468a25c7",
-    "targetProperty": "Albedo",
-    "playMode": 1
-  },
-  {
-    "guid": {
-      "a": "110577d9-ac36-99f8-f460-83e8441aa919",
-      "b": ""
-    },
-    "objGuid": "Guid(8882244367900345618, 8497328739543106736)",
-    "extraType": "AnimationSequence",
-    "name": "Animation Sequence",
-    "rttiType": "AnimSeqComponent",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "component_aniseq",
-    "expanded": true,
-    "editable": true,
-    "sequence": "a1010ab6-e669-5059-5e83-c34f2ba1c083",
+    "sequence": "458de1af-1f26-6a4f-7268-29cd31d938bc",
     "targetProperty": "Albedo",
     "playMode": 1
   },
@@ -2406,5 +2319,38 @@
     "editable": true,
     "advanced": true,
     "texture": "1ede6344-3d3d-5205-5c0f-b657a8696bdc"
+  },
+  {
+    "guid": {
+      "a": "5cb5fa34-a1e6-f053-e0bb-973559196182",
+      "b": ""
+    },
+    "objGuid": "Guid(306692215605064251, 16360171195230369664)",
+    "extraType": "Entity",
+    "name": "Result Text BG",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "e38a5737-5dcd-778e-5fc1-b7096d15b54d",
+      "b": ""
+    },
+    "objGuid": "Guid(9530594751574231300, 11675268590133806515)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "e7e42670-8760-078f-dd77-67b0a4772c58"
   }
 ]

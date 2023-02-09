@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "80709e49-ae03-46f5-f6c5-0fb78ce3c642",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "heart partial",
+    "objGuid": "Guid(10901572513312015105, 263943454595973781)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 2,
+    "maxResolution": 256
+  }
+]

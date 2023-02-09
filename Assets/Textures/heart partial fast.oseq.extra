@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "90930c20-4c7e-19c2-a72b-854a13e357a8",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "heart partial fast",
+    "objGuid": "Guid(4561579507804117506, 2960170143337814461)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 256
+  }
+]
