@@ -2181,7 +2181,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2261,7 +2261,7 @@
     },
     "objGuid": "Guid(11908798439939165712, 17866941829387392949)",
     "extraType": "Entity",
-    "name": "Result BG",
+    "name": "Result Gift BG",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2327,7 +2327,7 @@
     },
     "objGuid": "Guid(306692215605064251, 16360171195230369664)",
     "extraType": "Entity",
-    "name": "Result Text BG",
+    "name": "Result Text Shadow",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2351,6 +2351,6 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "e7e42670-8760-078f-dd77-67b0a4772c58"
+    "texture": "23ba037d-a3f0-eb39-eabf-1c91121a7f54"
   }
 ]

@@ -105,7 +105,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 15
+        drawCallNum: 14
         maskType:
           __class: IFMaskType
           value: None
@@ -196,8 +196,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9/6.png}
-        imageAtlas: {localId: 1, path: 12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9--6.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9/2.png}
+        imageAtlas: {localId: 1, path: 12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9--2.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1027,8 +1027,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/dc3a68f1-4f7c-fbbb-a031-170ad04e78c3/8.png}
-        imageAtlas: {localId: 1, path: dc3a68f1-4f7c-fbbb-a031-170ad04e78c3--8.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/dc3a68f1-4f7c-fbbb-a031-170ad04e78c3/13.png}
+        imageAtlas: {localId: 1, path: dc3a68f1-4f7c-fbbb-a031-170ad04e78c3--13.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1536,7 +1536,7 @@ entities:
     name: Portrait Segmentation
     guid: {a: 16809149926469510385, b: 14741259828772293766}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 39}
       - __class: IFSprite2d
@@ -1657,8 +1657,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/1433da75-1b93-4f6d-06ce-999728b9e30a/10.png}
-        imageAtlas: {localId: 1, path: 1433da75-1b93-4f6d-06ce-999728b9e30a--10.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/1433da75-1b93-4f6d-06ce-999728b9e30a/0.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1778,8 +1777,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/458de1af-1f26-6a4f-7268-29cd31d938bc/8.png}
-        imageAtlas: {localId: 4, path: 458de1af-1f26-6a4f-7268-29cd31d938bc--8.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/458de1af-1f26-6a4f-7268-29cd31d938bc/0.png}
+        imageAtlas: {localId: 4, path: 458de1af-1f26-6a4f-7268-29cd31d938bc--0.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1826,7 +1825,7 @@ entities:
           gifts: {localId: 2, path: 458de1af-1f26-6a4f-7268-29cd31d938bc--458de1af-1f26-6a4f-7268-29cd31d938bc.seq}
     layer: 1
   - __class: Entity
-    name: Result BG
+    name: Result Gift BG
     guid: {a: 11908798439939165712, b: 17866941829387392949}
     scene: {localId: 1}
     selfvisible: true
@@ -1928,7 +1927,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Result Text BG
+    name: Result Text Shadow
     guid: {a: 306692215605064251, b: 16360171195230369664}
     scene: {localId: 1}
     selfvisible: true
@@ -1946,11 +1945,11 @@ entities:
         sizeMode:
           __class: IFSprite2dSizeMode
           value: Custom
-        colorTint: {r: 1, g: 0.7629381, b: 0.7803175, a: 1}
+        colorTint: {r: 0.974287, g: 0.9807153, b: 1, a: 1}
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: e7e42670-8760-078f-dd77-67b0a4772c58--e7e42670-8760-078f-dd77-67b0a4772c58.png}
+        texture: {localId: 1, path: 23ba037d-a3f0-eb39-eabf-1c91121a7f54--23ba037d-a3f0-eb39-eabf-1c91121a7f54.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1983,7 +1982,7 @@ config:
   __class: Map
 msaa:
   __class: MSAAMode
-  value: _4X
+  value: NONE
 jsScriptSystems:
   - js/GraphSystem.js
   - js/EditorInjectSystem.js
@@ -2650,17 +2649,17 @@ depth: -1
 name: ""
 guid: {a: 16090463037344596463, b: 2355065730202159286}
 enabled: true
-localPosition: {x: 0, y: -0.21875, z: 0}
+localPosition: {x: 0.01488096, y: 0.3557017, z: 0}
 localScale: {x: 1.35, y: 1.35, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 44}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: 0, y: -140}
+position: {x: 9.523813, y: 227.6491}
 rotation: 0
 scale: {x: 1.35, y: 1.35}
-size: {x: 128, y: 128}
+size: {x: 507.9365, y: 902.9982}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
