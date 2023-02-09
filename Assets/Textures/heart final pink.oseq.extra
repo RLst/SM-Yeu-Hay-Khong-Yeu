@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "heart final pink",
-    "objGuid": "Guid(1247054942138927628, 11944802786994577074)",
+    "objGuid": "Guid(2612329203509288301, 15372478029053652622)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
