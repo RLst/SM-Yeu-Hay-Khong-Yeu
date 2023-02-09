@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "gifts one-sided",
-    "objGuid": "Guid(16447763898051179808, 2070376580508922558)",
+    "objGuid": "Guid(16378850337689325716, 2787732166438531491)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

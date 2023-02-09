@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "lovers segmentation",
-    "objGuid": "Guid(12919480181833351575, 5482019996311974288)",
+    "objGuid": "Guid(16163416362793280962, 8408113253965141400)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

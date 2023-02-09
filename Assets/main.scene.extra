@@ -162,6 +162,33 @@
   },
   {
     "guid": {
+      "a": "27ab5675-5da0-2160-316a-17438ddff64b",
+      "b": ""
+    },
+    "objGuid": "Guid(3981333552952122205, 4876523223634958775)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "11836e0d-a0d9-f5bf-88ef-aa848ee48ac8",
       "b": ""
     },
@@ -886,7 +913,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1434,7 +1461,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2346,5 +2373,38 @@
     "editable": true,
     "advanced": true,
     "texture": "e7e42670-8760-078f-dd77-67b0a4772c58"
+  },
+  {
+    "guid": {
+      "a": "4a423a38-d3b4-32af-8957-6be0e06b741c",
+      "b": ""
+    },
+    "objGuid": "Guid(1460646610744715754, 8245661927479009972)",
+    "extraType": "Entity",
+    "name": "_Skip Confirmation",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "3ab8c714-11b2-1d48-e4c0-95a9a27653c9",
+      "b": ""
+    },
+    "objGuid": "Guid(2180577300494347542, 15043446810787711387)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "1ede6344-3d3d-5205-5c0f-b657a8696bdc"
   }
 ]

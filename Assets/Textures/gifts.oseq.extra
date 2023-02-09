@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "458de1af-1f26-6a4f-7268-29cd31d938bc",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "gifts",
+    "objGuid": "Guid(2471603793915513974, 4025941018458598575)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 128
+  }
+]

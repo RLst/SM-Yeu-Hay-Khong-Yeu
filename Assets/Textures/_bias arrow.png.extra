@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "_bias arrow",
-    "objGuid": "Guid(17745730779868999210, 2482143462907827091)",
+    "objGuid": "Guid(90245648897940769, 9300328349599456703)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

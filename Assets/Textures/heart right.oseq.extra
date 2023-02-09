@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "heart right",
-    "objGuid": "Guid(12628529053464383309, 10885162351615150240)",
+    "objGuid": "Guid(1604762113459829664, 13157236639318394756)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

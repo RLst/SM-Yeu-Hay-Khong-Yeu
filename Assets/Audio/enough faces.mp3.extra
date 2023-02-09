@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "enough faces",
-    "objGuid": "Guid(9675937449392102994, 4614384544490190738)",
+    "objGuid": "Guid(11621308479561283567, 16050013739431722131)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

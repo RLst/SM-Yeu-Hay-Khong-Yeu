@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "gifts friends",
-    "objGuid": "Guid(5930496783039857944, 6375606071605024398)",
+    "objGuid": "Guid(3694821927434354367, 13881264006320384896)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
