@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "heart partial",
-    "objGuid": "Guid(6001129916708747333, 13252543810438973350)",
+    "objGuid": "Guid(11475363447012261324, 18401650686147844015)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

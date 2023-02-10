@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "gift",
-    "objGuid": "Guid(9820690083303531322, 10246829626660261043)",
+    "objGuid": "Guid(12703870625167584482, 9741711304026545585)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

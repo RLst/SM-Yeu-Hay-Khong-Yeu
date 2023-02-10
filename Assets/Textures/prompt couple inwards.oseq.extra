@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "prompt couple inwards",
-    "objGuid": "Guid(1747922822693740124, 4254122695489938822)",
+    "objGuid": "Guid(4705731026213431776, 2602212026511079843)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

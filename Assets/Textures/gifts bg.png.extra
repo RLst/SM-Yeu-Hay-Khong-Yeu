@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "gifts bg",
-    "objGuid": "Guid(9170804911612252959, 12594366856228243372)",
+    "objGuid": "Guid(1533811498652269248, 1710971956336502936)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

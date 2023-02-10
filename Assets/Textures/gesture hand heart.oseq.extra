@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "gesture hand heart",
-    "objGuid": "Guid(11046724578019583131, 4499930399096251784)",
+    "objGuid": "Guid(6289995193760805980, 11256681749430575803)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
