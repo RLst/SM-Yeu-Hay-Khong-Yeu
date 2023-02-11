@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "gesture xin tien",
-    "objGuid": "Guid(16811516654642714555, 4857715891132306572)",
+    "objGuid": "Guid(4486216471475544861, 8612525250911273369)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

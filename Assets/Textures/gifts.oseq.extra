@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "gifts",
-    "objGuid": "Guid(10757504405379587560, 18226186176539494583)",
+    "objGuid": "Guid(10973483684785428619, 17555640021897127064)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
