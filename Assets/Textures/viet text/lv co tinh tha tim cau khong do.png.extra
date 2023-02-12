@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "568f1aaf-97ec-a781-fccb-5166c77687c4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "lv co tinh tha tim cau khong do",
+    "objGuid": "Guid(669467479993152011, 14947862533787003036)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

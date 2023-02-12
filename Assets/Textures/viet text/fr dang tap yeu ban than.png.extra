@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "31d064bd-ba9b-ecb6-3c3b-43cb8504b07e",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "fr dang tap yeu ban than",
+    "objGuid": "Guid(6793148508000307464, 16998367553729548450)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

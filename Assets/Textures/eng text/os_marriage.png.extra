@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "7e3a2de9-a057-dc57-b3ad-8b83bcdafeaa",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "os_marriage",
+    "objGuid": "Guid(3621981600207047177, 10142422802085109431)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

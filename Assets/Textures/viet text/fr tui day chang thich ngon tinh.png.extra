@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "4d41b93b-6376-4ca9-bf99-6c7e073837b5",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "fr tui day chang thich ngon tinh",
+    "objGuid": "Guid(5065780422045955010, 10089518502733329301)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

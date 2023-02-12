@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "8d3ed8df-3cb2-476c-5e76-9ea4dec252f0",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "fr em ko can iphone",
+    "objGuid": "Guid(5642985259876230424, 11335071064231615155)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

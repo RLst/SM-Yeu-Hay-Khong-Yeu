@@ -105,7 +105,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 14
+        drawCallNum: 12
         maskType:
           __class: IFMaskType
           value: None
@@ -196,8 +196,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9/9.png}
-        imageAtlas: {localId: 1, path: 12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9--9.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9/5.png}
+        imageAtlas: {localId: 1, path: 12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9--5.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -625,7 +625,7 @@ entities:
     name: Result Text
     guid: {a: 13422424141293639223, b: 3664673202780946593}
     scene: {localId: 1}
-    selfvisible: false
+    selfvisible: true
     components:
       - {localId: 20}
       - __class: IFSprite2d
@@ -644,7 +644,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 8d3ed8df-3cb2-476c-5e76-9ea4dec252f0--8d3ed8df-3cb2-476c-5e76-9ea4dec252f0.png}
+        texture: {localId: 1, path: 3b154fe8-29ea-64f7-c79a-01ccd94fa5e2--3b154fe8-29ea-64f7-c79a-01ccd94fa5e2.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1027,8 +1027,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/dc3a68f1-4f7c-fbbb-a031-170ad04e78c3/6.png}
-        imageAtlas: {localId: 1, path: dc3a68f1-4f7c-fbbb-a031-170ad04e78c3--6.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/dc3a68f1-4f7c-fbbb-a031-170ad04e78c3/3.png}
+        imageAtlas: {localId: 1, path: dc3a68f1-4f7c-fbbb-a031-170ad04e78c3--3.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1707,7 +1707,7 @@ entities:
     name: Result Picture
     guid: {a: 10106087794548586251, b: 5441176369951721139}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 44}
       - __class: IFSprite2d
@@ -1777,8 +1777,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/af4f3711-669b-3cd2-01b0-a0760fcee0cc/20.png}
-        imageAtlas: {localId: 1, path: af4f3711-669b-3cd2-01b0-a0760fcee0cc--20.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/af4f3711-669b-3cd2-01b0-a0760fcee0cc/9.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType

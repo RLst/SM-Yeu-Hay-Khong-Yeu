@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "70d20f24-3b41-df60-e1f9-a0678fbcf7b3",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "viet text",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

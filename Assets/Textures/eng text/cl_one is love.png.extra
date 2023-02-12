@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "3ce28105-6015-c66a-0f03-8f990312dd66",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "cl_one is love",
+    "objGuid": "Guid(6216059578518569684, 16118132600672935097)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

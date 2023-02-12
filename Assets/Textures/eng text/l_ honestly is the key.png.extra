@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "c5be0c1d-bfcc-ccb8-04b9-8c689a069a02",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "l_ honestly is the key",
+    "objGuid": "Guid(9605586137967314191, 16675882947607000704)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

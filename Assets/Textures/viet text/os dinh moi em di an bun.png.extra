@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "676e4d40-25a3-d443-aa6b-c5218da0c86a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "os dinh moi em di an bun",
+    "objGuid": "Guid(16017633269939698463, 9830501678887625874)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

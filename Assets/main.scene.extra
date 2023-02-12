@@ -1379,7 +1379,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1398,7 +1398,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "8d3ed8df-3cb2-476c-5e76-9ea4dec252f0"
+    "texture": "3b154fe8-29ea-64f7-c79a-01ccd94fa5e2"
   },
   {
     "guid": {
@@ -2181,7 +2181,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {

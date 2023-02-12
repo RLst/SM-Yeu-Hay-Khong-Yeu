@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "491a635c-3b85-b94b-7f72-10fea070c70c",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "lv ong troi tao ra dia chan",
+    "objGuid": "Guid(3984489653120397489, 12605506102575939732)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

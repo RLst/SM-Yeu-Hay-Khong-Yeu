@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "96182d12-6dc6-c1c1-56c3-10e2fb8dcab4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "os_love is fun",
+    "objGuid": "Guid(7371815961187891080, 13797984042691355040)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

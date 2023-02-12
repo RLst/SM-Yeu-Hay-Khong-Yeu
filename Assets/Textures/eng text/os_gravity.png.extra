@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "cfddc96d-870c-3b41-8439-37a99b4cf117",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "os_gravity",
+    "objGuid": "Guid(4345680115220640004, 2152295889298690183)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
