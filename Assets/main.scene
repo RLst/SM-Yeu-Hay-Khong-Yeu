@@ -79,50 +79,6 @@ entities:
         isRootCamera: false
     layer: 1
   - __class: Entity
-    name: Face Sticker Canvas
-    guid: {a: 14216593986138001258, b: 9656255495242727313}
-    scene: {localId: 1}
-    selfvisible: true
-    components:
-      - {localId: 15}
-      - __class: IFLayer2d
-        name: ""
-        guid: {a: 11693846238106460983, b: 14841889288996255913}
-        enabled: true
-        sortingOrder: 0
-        autoSortingOrder: true
-        useFrustumCulling: true
-        receiveShadow: true
-        lightProbeBlendMode:
-          __class: LightProbeBlendMode
-          value: OFF
-        entirePingPong: false
-        renderOrderMode:
-          __class: IFLayer2dRenderOrderMode
-          value: SceneCustom
-        blendMode:
-          __class: IFBlendMode
-          value: Normal
-        blendAlpha: 1
-        blendAlphaCkeck: true
-        drawCallNum: 2
-        maskType:
-          __class: IFMaskType
-          value: None
-        inverted: false
-        scissorRectMask: false
-        updateFlag: false
-        updateSortFlag: false
-      - __class: IFCanvas2d
-        name: ""
-        guid: {a: 12558161991556451740, b: 1914885378537574056}
-        enabled: true
-        resolutionType:
-          __class: IFResolutionType
-          value: FitHeight
-        resolutionSize: {x: 720, y: 1280}
-    layer: 1
-  - __class: Entity
     name: Canvas
     guid: {a: 4345846002456892800, b: 6665563304492486313}
     scene: {localId: 1}
@@ -133,7 +89,7 @@ entities:
         name: ""
         guid: {a: 3480044997432542789, b: 9892169350548698778}
         enabled: true
-        sortingOrder: 1
+        sortingOrder: 0
         autoSortingOrder: true
         useFrustumCulling: true
         receiveShadow: true
@@ -160,6 +116,50 @@ entities:
       - __class: IFCanvas2d
         name: ""
         guid: {a: 4918211374355852899, b: 17061299537499711158}
+        enabled: true
+        resolutionType:
+          __class: IFResolutionType
+          value: FitHeight
+        resolutionSize: {x: 720, y: 1280}
+    layer: 1
+  - __class: Entity
+    name: Face Sticker Canvas
+    guid: {a: 14216593986138001258, b: 9656255495242727313}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 15}
+      - __class: IFLayer2d
+        name: ""
+        guid: {a: 11693846238106460983, b: 14841889288996255913}
+        enabled: true
+        sortingOrder: 1
+        autoSortingOrder: true
+        useFrustumCulling: true
+        receiveShadow: true
+        lightProbeBlendMode:
+          __class: LightProbeBlendMode
+          value: OFF
+        entirePingPong: false
+        renderOrderMode:
+          __class: IFLayer2dRenderOrderMode
+          value: SceneCustom
+        blendMode:
+          __class: IFBlendMode
+          value: Normal
+        blendAlpha: 1
+        blendAlphaCkeck: true
+        drawCallNum: 2
+        maskType:
+          __class: IFMaskType
+          value: None
+        inverted: false
+        scissorRectMask: false
+        updateFlag: false
+        updateSortFlag: false
+      - __class: IFCanvas2d
+        name: ""
+        guid: {a: 12558161991556451740, b: 1914885378537574056}
         enabled: true
         resolutionType:
           __class: IFResolutionType
@@ -240,8 +240,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9/1.png}
-        imageAtlas: {localId: 1, path: 12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9--1.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9/4.png}
+        imageAtlas: {localId: 1, path: 12b1a1d4-fa4c-3d7d-cf4b-c4cc5b8e11a9--4.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2011,7 +2011,7 @@ size: {x: 720, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -5
+depth: 0
 --- !IFTransform2d &6
 name: ""
 guid: {a: 10974229915520920671, b: 17120888831025150394}
@@ -2032,7 +2032,7 @@ size: {x: 720, y: 338.9062}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -20
+depth: -15
 --- !IFTransform2d &7
 name: ""
 guid: {a: 17604122999071629736, b: 12410947048354092190}
@@ -2056,7 +2056,7 @@ size: {x: 10, y: 10}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -22
+depth: -17
 --- !IFTransform2d &8
 name: ""
 guid: {a: 9605934850909265620, b: 16671431194739240115}
@@ -2075,7 +2075,7 @@ size: {x: 500, y: 128}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -19
+depth: -14
 --- !IFTransform2d &9
 name: ""
 guid: {a: 2252592513669419303, b: 4251583980555718276}
@@ -2094,7 +2094,7 @@ size: {x: 10, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -8
+depth: -3
 --- !IFTransform2d &10
 name: ""
 guid: {a: 17456697015408603655, b: 17693284666697846945}
@@ -2113,7 +2113,7 @@ size: {x: 10, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -9
+depth: -4
 --- !IFTransform2d &15
 name: ""
 guid: {a: 14361623849596263861, b: 12553913055666168967}
@@ -2136,7 +2136,7 @@ size: {x: 720, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: 0
+depth: -27
 --- !IFTransform2d &16
 name: ""
 guid: {a: 7874703493131661177, b: 6910542100818320273}
@@ -2155,7 +2155,7 @@ size: {x: 256, y: 256}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -3
+depth: -30
 --- !IFTransform2d &17
 name: ""
 guid: {a: 12845721181422858764, b: 3738495189757326766}
@@ -2174,7 +2174,7 @@ size: {x: 256, y: 256}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -4
+depth: -31
 --- !IFTransform2d &20
 name: ""
 guid: {a: 5350326778354144237, b: 6953562355034104488}
@@ -2195,7 +2195,7 @@ size: {x: 512, y: 332}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -10
+depth: -5
 --- !IFTransform2d &22
 name: ""
 guid: {a: 4633942606790925615, b: 11021530889127309445}
@@ -2217,7 +2217,7 @@ size: {x: 15, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -7
+depth: -2
 --- !IFTransform2d &26
 name: ""
 guid: {a: 5206449355625342810, b: 271715332421617795}
@@ -2236,7 +2236,7 @@ size: {x: 512, y: 150}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -16
+depth: -11
 --- !IFTransform2d &27
 name: ""
 guid: {a: 4054586001569487289, b: 17749761132298292402}
@@ -2255,7 +2255,7 @@ size: {x: 719.9999, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -18
+depth: -13
 --- !IFTransform2d &29
 name: ""
 guid: {a: 3553269118990505184, b: 10160419954973911951}
@@ -2274,7 +2274,7 @@ size: {x: 30, y: 30}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -1
+depth: -28
 --- !IFTransform2d &30
 name: ""
 guid: {a: 17169573039256424916, b: 11427270967443436217}
@@ -2293,7 +2293,7 @@ size: {x: 256, y: 256}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -2
+depth: -29
 --- !IFTransform2d &31
 name: ""
 guid: {a: 15224763614785268566, b: 15302995143898924931}
@@ -2312,7 +2312,7 @@ size: {x: 720, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -28
+depth: -23
 --- !IFTransform2d &32
 name: ""
 guid: {a: 2110782803707298007, b: 2869450345510009748}
@@ -2331,7 +2331,7 @@ size: {x: 654.5455, y: 122.7273}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -21
+depth: -16
 --- !IFTransform2d &33
 name: ""
 guid: {a: 3766840012502962122, b: 10250797890286484111}
@@ -2350,7 +2350,7 @@ size: {x: 296, y: 296}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -23
+depth: -18
 --- !IFTransform2d &34
 name: ""
 guid: {a: 11479135473763390346, b: 11369167412226517917}
@@ -2369,7 +2369,7 @@ size: {x: 296, y: 296}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -24
+depth: -19
 --- !IFTransform2d &35
 name: ""
 guid: {a: 10754836921328410852, b: 1149345528688892335}
@@ -2388,7 +2388,7 @@ size: {x: 296, y: 296}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -25
+depth: -20
 --- !IFTransform2d &36
 name: ""
 guid: {a: 6216990565795593263, b: 2312353207268214194}
@@ -2407,7 +2407,7 @@ size: {x: 685.7144, y: 1219.048}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -27
+depth: -22
 --- !IFTransform2d &37
 name: ""
 guid: {a: 6360331652141566108, b: 14836657682070302344}
@@ -2426,7 +2426,7 @@ size: {x: 685.7144, y: 1219.048}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -11
+depth: -6
 --- !IFTransform2d &38
 name: ""
 guid: {a: 10178816911747830637, b: 12577775063658733485}
@@ -2445,7 +2445,7 @@ size: {x: 1422.857, y: 2011.728}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -26
+depth: -21
 --- !IFTransform2d &39
 name: ""
 guid: {a: 381816144828748960, b: 1521075438744554927}
@@ -2467,7 +2467,7 @@ size: {x: 10, y: 10}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -29
+depth: -24
 --- !IFTransform2d &40
 name: ""
 guid: {a: 11623110026556644178, b: 333269502138241710}
@@ -2486,7 +2486,7 @@ size: {x: 720, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -30
+depth: -25
 --- !IFTransform2d &41
 name: ""
 guid: {a: 5209409452973946847, b: 15246164112882473873}
@@ -2505,7 +2505,7 @@ size: {x: 720.0001, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -31
+depth: -26
 --- !IFTransform2d &44
 name: ""
 guid: {a: 12773084110595932348, b: 9490575711200533938}
@@ -2528,7 +2528,7 @@ size: {x: 512, y: 332}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -12
+depth: -7
 --- !IFTransform2d &45
 name: ""
 guid: {a: 17819009471354962671, b: 10748546120078858377}
@@ -2547,7 +2547,7 @@ size: {x: 128, y: 128}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -13
+depth: -8
 --- !IFTransform2d &46
 name: ""
 guid: {a: 1462672398890196708, b: 12480604158856208769}
@@ -2566,7 +2566,7 @@ size: {x: 128, y: 128}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -14
+depth: -9
 --- !IFTransform2d &47
 name: ""
 guid: {a: 3981333552952122205, b: 4876523223634958775}
@@ -2585,7 +2585,7 @@ size: {x: 30.42109, y: 30.42109}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -6
+depth: -1
 --- !IFTransform2d &48
 name: ""
 guid: {a: 16090463037344596463, b: 2355065730202159286}
@@ -2604,7 +2604,7 @@ size: {x: 507.9365, y: 902.9982}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -15
+depth: -10
 --- !IFTransform2d &49
 name: ""
 guid: {a: 5282633458272366501, b: 17632158493465687736}
@@ -2623,4 +2623,4 @@ size: {x: 512, y: 332}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -17
+depth: -12
