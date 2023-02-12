@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "8530cae8-8542-05b1-350e-0412871157a0",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p2 show some love gestures",
+    "objGuid": "Guid(16520588701775623502, 4230123387952979347)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

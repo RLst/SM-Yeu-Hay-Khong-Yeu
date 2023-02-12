@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "19f610c2-c449-e16a-7471-cb7841aeeab2",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "cl_i love you with",
+    "objGuid": "Guid(5208055947579949073, 6558470840304676232)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "31681d6f-8d95-34aa-e8b1-98605123b90f",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "l_true love",
+    "objGuid": "Guid(11907839320341029546, 4822904704598720924)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

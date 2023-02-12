@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "8cbbe68c-aeab-785c-c598-a9ed85a29015",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p2 hand and fingers",
+    "objGuid": "Guid(5999717309280987700, 8514566198188310188)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

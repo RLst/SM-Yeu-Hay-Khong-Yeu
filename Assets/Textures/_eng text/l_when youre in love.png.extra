@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "e3a92db2-f01f-c11e-b15c-477290bb4c9b",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "l_when youre in love",
+    "objGuid": "Guid(17096034231375237799, 14521660450852206766)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

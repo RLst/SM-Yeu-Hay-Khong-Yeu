@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "cead608a-67a0-2122-6ab5-baa9d7954c59",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "_phases",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

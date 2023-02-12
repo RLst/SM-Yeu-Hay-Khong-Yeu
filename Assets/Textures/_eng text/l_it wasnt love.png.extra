@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "3e036074-1c0f-c29c-2fdf-7f8ca1e36959",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "l_it wasnt love",
+    "objGuid": "Guid(7083715189570009396, 17291965100836443271)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "4f9429df-4833-1744-9aac-926b84800701",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "os_if you love someone",
+    "objGuid": "Guid(5137227903664651750, 9421171894663593101)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

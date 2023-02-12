@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "92f2c484-7bbc-4b6a-cdaf-b00e709db5bc",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p2 smile camera",
+    "objGuid": "Guid(9822116683795341104, 5348001052807417788)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

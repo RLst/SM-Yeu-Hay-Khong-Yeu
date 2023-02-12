@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "ee63cd39-56d9-c609-d70d-a577cb399ec4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "likes left",
+    "objGuid": "Guid(8666841614620992086, 3954963583022600605)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "162564dc-9dcd-d468-398e-3066171c4342",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "l_love is the",
+    "objGuid": "Guid(2975469345469314721, 608709385929234871)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

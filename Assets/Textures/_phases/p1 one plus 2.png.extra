@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "43678263-f754-b4e1-80bf-09d7b4ee900a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p1 one plus 2",
+    "objGuid": "Guid(16739445272933716194, 5772214505254864785)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

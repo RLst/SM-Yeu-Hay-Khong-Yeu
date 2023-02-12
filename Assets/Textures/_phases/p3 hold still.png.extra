@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "75c6654f-d09e-7eb3-10e5-9877fb0a33e8",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p3 hold still",
+    "objGuid": "Guid(3190400806477725177, 128917389619332275)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

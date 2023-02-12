@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "ee94da05-9e47-f07e-84e5-d7741e23ddf4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "cl_love is like",
+    "objGuid": "Guid(14358403085911785868, 11296475935140980920)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

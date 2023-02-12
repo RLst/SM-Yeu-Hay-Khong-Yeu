@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "15d57dfe-617b-2928-0f7c-72955cbc36b9",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p2 try some gestures",
+    "objGuid": "Guid(5642715804066587978, 18241523266020409524)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

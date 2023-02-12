@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "17513c8d-f48c-8b37-9a1c-7c7f0d1064bb",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p1 you and your crush",
+    "objGuid": "Guid(15079289039834834139, 7509762800268809911)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

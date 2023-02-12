@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "3523f589-45a4-02d1-201b-3c5f9fb19a50",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p1 you and a lover",
+    "objGuid": "Guid(3910846894272016945, 8448383926665698728)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

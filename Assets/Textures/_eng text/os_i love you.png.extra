@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "ab7ee110-54b8-238f-c001-9bbc7a54b025",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "os_i love you",
+    "objGuid": "Guid(10830500464578907891, 9860639557223698095)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

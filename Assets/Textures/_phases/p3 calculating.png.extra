@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "c75a7cb4-7d0c-788d-3c57-5ec65d882a5b",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p3 calculating",
+    "objGuid": "Guid(16451039063915521111, 8076334321350374058)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

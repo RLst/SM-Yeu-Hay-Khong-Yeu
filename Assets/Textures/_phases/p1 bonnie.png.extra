@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "fb5dac24-c0a0-24b2-b8dc-55f712404b6e",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p1 bonnie",
+    "objGuid": "Guid(9962749951087796819, 7206156029814768040)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

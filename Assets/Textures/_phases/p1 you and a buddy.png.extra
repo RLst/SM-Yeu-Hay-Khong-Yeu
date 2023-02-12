@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "14903f10-a45c-ec02-a49e-64037f3f54d9",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p1 you and a buddy",
+    "objGuid": "Guid(4559256148952617837, 12780649343427704743)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

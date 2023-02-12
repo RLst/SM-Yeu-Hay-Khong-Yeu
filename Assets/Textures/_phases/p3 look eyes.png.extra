@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "f21e618c-f444-41cd-60bb-7841e30412eb",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p3 look eyes",
+    "objGuid": "Guid(15226542034538324969, 11219421679364617092)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

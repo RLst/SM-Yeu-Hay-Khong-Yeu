@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "8eba7cda-465f-6498-d960-620202c07c44",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p2 show some love",
+    "objGuid": "Guid(10683606223587348974, 17821860582664323757)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

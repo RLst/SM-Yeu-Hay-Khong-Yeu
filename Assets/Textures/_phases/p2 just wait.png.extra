@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "1c138ec2-cc3b-2b7b-6955-bbda4c00e123",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p2 just wait",
+    "objGuid": "Guid(13064654877707349696, 8664351277705927835)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

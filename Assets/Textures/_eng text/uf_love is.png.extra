@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "d3270fb8-7e01-bc8c-2001-d9c5551f4a12",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "uf_love is",
+    "objGuid": "Guid(16232519871440314311, 8868568352237625514)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

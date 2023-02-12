@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "heart partial fast",
-    "objGuid": "Guid(5134114887883479085, 3533099978520856991)",
+    "objGuid": "Guid(6002105625903798513, 7218415820590231191)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

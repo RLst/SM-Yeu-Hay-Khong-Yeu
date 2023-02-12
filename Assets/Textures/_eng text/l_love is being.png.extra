@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "009610c3-24ee-20e5-49e7-59761e79a02a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "l_love is being",
+    "objGuid": "Guid(741984863256547202, 3602076196790173614)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

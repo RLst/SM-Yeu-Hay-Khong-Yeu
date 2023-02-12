@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "72eebe86-f81a-d894-61d0-a8f12b7a0bd7",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "p1 2 people",
+    "objGuid": "Guid(8741467571265905722, 12479447308349189254)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
