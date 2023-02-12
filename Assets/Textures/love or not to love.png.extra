@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "84b0b769-674c-e968-c7ac-adcab7e9edf5",
+      "a": "d632098e-41ec-275e-e872-4a33d8c8a987",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "co yeu khong nao",
-    "objGuid": "Guid(9315558855971993987, 14496182515712404402)",
+    "name": "love or not to love",
+    "objGuid": "Guid(3189007884380748656, 777406004628161199)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,
