@@ -1,6 +1,6 @@
 {
   "name": "Có Yêu Không Nào?",
-  "lastModified": "Mon, 13 Feb 2023 04:59:08 GMT",
+  "lastModified": "Mon, 13 Feb 2023 05:47:11 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "0439cb28-5421-bd9b-6248-47ac46895316",
@@ -75,9 +75,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 3449133526,
-  "durationCreation": 727846296,
-  "durationBackground": 554600107,
+  "durationToCreate": 3452016672,
+  "durationCreation": 730715883,
+  "durationBackground": 555307482,
   "effectHint": "multi_faces",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,

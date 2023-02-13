@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "af4f3711-669b-3cd2-01b0-a0760fcee0cc",
+      "a": "9d07f9f9-a358-993b-6549-f3bfb08c1677",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "gifts",
-    "objGuid": "Guid(14936372362664823826, 14937594227150861225)",
+    "name": "heart pink final",
+    "objGuid": "Guid(11116419233873020987, 17174207222551763074)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 128
+    "maxResolution": 256
   }
 ]

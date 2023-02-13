@@ -130,7 +130,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -783,33 +783,6 @@
   },
   {
     "guid": {
-      "a": "126b6a30-e5b9-cab0-f70b-a22236b0731d",
-      "b": ""
-    },
-    "objGuid": "Guid(15224763614785268566, 15302995143898924931)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
       "a": "31558732-d5d9-bef9-47a2-09a0eb060bca",
       "b": ""
     },
@@ -934,7 +907,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1406,7 +1379,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1439,7 +1412,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1589,42 +1562,9 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "3bb201ee-5fe0-e335-d92d-b0454bbbfe36",
+    "sequence": "9d07f9f9-a358-993b-6549-f3bfb08c1677",
     "targetProperty": "Albedo",
     "playMode": 0
-  },
-  {
-    "guid": {
-      "a": "f8115fc0-b296-c3bd-662f-88ef8830f657",
-      "b": ""
-    },
-    "objGuid": "Guid(7800429251955117738, 11002879758038938503)",
-    "extraType": "Entity",
-    "name": "Safe Area",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": true,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "96770558-7755-86e7-ab21-0d408c23826d",
-      "b": ""
-    },
-    "objGuid": "Guid(6791910882147846125, 12347830342581827994)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": false,
-    "texture": "c29c135e-0acc-179f-e718-f2506e3dd903"
   },
   {
     "guid": {
@@ -2134,7 +2074,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "17abdd6f-a5e1-d254-5c0f-ebd4be86cabb"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -2184,7 +2124,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "af4f3711-669b-3cd2-01b0-a0760fcee0cc",
+    "sequence": "00000000-0000-0000-0000-00000000006c",
     "targetProperty": "Albedo",
     "playMode": 1
   },

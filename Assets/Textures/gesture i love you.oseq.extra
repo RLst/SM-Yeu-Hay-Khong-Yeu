@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "gesture i love you",
-    "objGuid": "Guid(10326600298055834411, 6438402631188743299)",
+    "objGuid": "Guid(16664897976954189987, 11087552005455036854)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

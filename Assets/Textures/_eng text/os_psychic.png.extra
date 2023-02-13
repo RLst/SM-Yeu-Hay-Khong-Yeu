@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "b7468f9b-c76d-ef58-d151-204dfc4e9c81",
+      "a": "f766fd0c-ca96-9865-0d52-a79423f3d866",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "fr yeu chi co yeu",
-    "objGuid": "Guid(8017418594847758258, 1394085459221321400)",
+    "name": "os_psychic",
+    "objGuid": "Guid(13205385084296630512, 12972475981843106219)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
