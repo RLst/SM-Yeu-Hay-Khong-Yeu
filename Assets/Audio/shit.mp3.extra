@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "shit",
-    "objGuid": "Guid(4125770477970548276, 16578604535483480204)",
+    "objGuid": "Guid(236074340273090858, 13200038193779871108)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

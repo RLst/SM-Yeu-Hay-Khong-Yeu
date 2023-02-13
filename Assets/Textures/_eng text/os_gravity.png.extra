@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "os_gravity",
-    "objGuid": "Guid(6795140180073972564, 4001662584894045854)",
+    "objGuid": "Guid(8161968873110261633, 16150436593780969384)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

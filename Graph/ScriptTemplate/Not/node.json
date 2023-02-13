@@ -1,0 +1,35 @@
+{
+	"name": "Not",
+	"id": "804a898c-9ba2-7a84-cd68-722a2984171d",
+	"inputs": [
+		{
+			"name": "Value",
+			"type": "Bool",
+			"default_value": "0",
+			"item_type": "",
+			"description": "The input boolean value",
+			"displayType": "Boolean"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"type": "Bool",
+			"item_type": "",
+			"description": "The reversed boolean value",
+			"displayType": "Boolean"
+		}
+	],
+	"js": "CGNot.js",
+	"lua": "CGNot.lua",
+	"version": "1.1.0",
+	"amazingVersion": "10.40.0",
+	"luaFuncName": "CGNot",
+	"category": "Logic",
+	"description": "Reverse the input boolean value. If the input boolean is true, then the output is false, and vice versa.",
+	"productTypes": [
+		"InHouse",
+		"Domestic",
+		"TTEH"
+	]
+}

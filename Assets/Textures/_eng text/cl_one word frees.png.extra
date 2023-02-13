@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "cl_one word frees",
-    "objGuid": "Guid(6506012507194389983, 8365599000836170370)",
+    "objGuid": "Guid(1098945715431670803, 1757438787344863157)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

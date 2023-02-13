@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "os_to fall",
-    "objGuid": "Guid(14289290984838762917, 15775624796066613138)",
+    "objGuid": "Guid(2901114445507125408, 15283272665123171999)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

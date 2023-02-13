@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "uf_being back",
-    "objGuid": "Guid(15438503847050022576, 16423298181113399216)",
+    "objGuid": "Guid(1390830638775750433, 16531996194170939541)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

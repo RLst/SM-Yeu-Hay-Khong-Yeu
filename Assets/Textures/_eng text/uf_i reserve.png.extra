@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "uf_i reserve",
-    "objGuid": "Guid(3693454167385265457, 10669128929463247802)",
+    "objGuid": "Guid(4560420775859488717, 15811520412968116359)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

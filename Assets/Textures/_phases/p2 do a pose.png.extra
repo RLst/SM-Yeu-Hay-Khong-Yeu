@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "p2 do a pose",
-    "objGuid": "Guid(14721776372927886120, 13085079831327863707)",
+    "objGuid": "Guid(14650072147714113879, 7255602494099521421)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
