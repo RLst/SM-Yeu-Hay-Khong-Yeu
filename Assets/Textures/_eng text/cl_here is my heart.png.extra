@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "cl_here is my heart",
-    "objGuid": "Guid(12343340180816995946, 16756901756199963284)",
+    "objGuid": "Guid(4776265028918597804, 10165419949907990961)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

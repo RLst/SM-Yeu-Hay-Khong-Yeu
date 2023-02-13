@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "cl_love is composed",
-    "objGuid": "Guid(810814640042660994, 8041689717097083788)",
+    "objGuid": "Guid(9101533229715976336, 10991625199358049204)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

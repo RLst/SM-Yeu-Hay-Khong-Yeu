@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "prompt arrow inwards",
-    "objGuid": "Guid(10036642146033005063, 12309048874257885324)",
+    "objGuid": "Guid(3768041740883335546, 10705019182979228324)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

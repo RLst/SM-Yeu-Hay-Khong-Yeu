@@ -907,7 +907,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1446,7 +1446,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "d632098e-41ec-275e-e872-4a33d8c8a987"
+    "texture": "7a15ca11-e997-934d-d848-7ccd8b8b8e1e"
   },
   {
     "guid": {

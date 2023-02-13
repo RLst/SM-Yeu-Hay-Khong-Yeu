@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "unfriendly",
-    "objGuid": "Guid(6648084006842840378, 4098141713185716124)",
+    "objGuid": "Guid(11547875692613070162, 1403485936714112899)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

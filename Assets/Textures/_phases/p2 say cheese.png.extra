@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "p2 say cheese",
-    "objGuid": "Guid(6147170015173275548, 2059949843013906853)",
+    "objGuid": "Guid(16739472912212522350, 16080122174083864975)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

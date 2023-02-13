@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "p2 smile camera",
-    "objGuid": "Guid(10755577053859111664, 6538840070584123559)",
+    "objGuid": "Guid(15150631337160411266, 17392559534981670021)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

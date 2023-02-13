@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "cl_life is not measured",
-    "objGuid": "Guid(15442121471365517696, 12418233667223291794)",
+    "objGuid": "Guid(8738753159188291753, 1161750111440157585)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "os_psychic",
-    "objGuid": "Guid(13205385084296630512, 12972475981843106219)",
+    "objGuid": "Guid(8523457553304604084, 12378122960916106674)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

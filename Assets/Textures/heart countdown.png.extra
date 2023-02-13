@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "heart countdown",
-    "objGuid": "Guid(12629956703722643802, 5749997076948248224)",
+    "objGuid": "Guid(7224849487711888186, 1912679186733802881)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

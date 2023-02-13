@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "cl_there is no remedy",
-    "objGuid": "Guid(16017172111489992985, 2852442639477410474)",
+    "objGuid": "Guid(15512536148988960566, 9467848924214428302)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

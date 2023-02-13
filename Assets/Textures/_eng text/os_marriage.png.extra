@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "os_marriage",
-    "objGuid": "Guid(12411974071666009477, 7745512414003806886)",
+    "objGuid": "Guid(15368384016702642963, 13025005028132074159)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

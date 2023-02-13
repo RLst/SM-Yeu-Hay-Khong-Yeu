@@ -1,6 +1,6 @@
 {
-  "name": "Có Yêu Không Nào?",
-  "lastModified": "Mon, 13 Feb 2023 06:04:57 GMT",
+  "name": "The Lovers Test",
+  "lastModified": "Mon, 13 Feb 2023 07:37:21 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "0439cb28-5421-bd9b-6248-47ac46895316",
@@ -75,9 +75,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 3453082096,
-  "durationCreation": 731781307,
-  "durationBackground": 555760469,
+  "durationToCreate": 3458626210,
+  "durationCreation": 737054104,
+  "durationBackground": 558621060,
   "effectHint": "multi_faces",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,

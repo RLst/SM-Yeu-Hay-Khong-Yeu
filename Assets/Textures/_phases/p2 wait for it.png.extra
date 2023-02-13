@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "p2 wait for it",
-    "objGuid": "Guid(17314941044959031556, 8256267853120604344)",
+    "objGuid": "Guid(17097595972657838781, 15764559277020523686)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

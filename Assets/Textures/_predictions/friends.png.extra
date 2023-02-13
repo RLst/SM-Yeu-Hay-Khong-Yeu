@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "friends",
-    "objGuid": "Guid(884847806596356283, 14639445553366099849)",
+    "objGuid": "Guid(18179595020814771646, 12618587158708937347)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

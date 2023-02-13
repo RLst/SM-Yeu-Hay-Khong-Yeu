@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "uf_treat me",
-    "objGuid": "Guid(14144066949975583182, 5730687516076604567)",
+    "objGuid": "Guid(1246998002080565342, 6038491855773025437)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

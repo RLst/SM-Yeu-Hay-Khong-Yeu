@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "os_the course",
-    "objGuid": "Guid(17025973264089071394, 4271728593461017476)",
+    "objGuid": "Guid(9316608476656046453, 17415258226611328674)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
