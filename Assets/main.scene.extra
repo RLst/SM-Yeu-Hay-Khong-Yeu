@@ -486,6 +486,33 @@
   },
   {
     "guid": {
+      "a": "8bc11382-209b-da54-e2f4-817664d0b05f",
+      "b": ""
+    },
+    "objGuid": "Guid(20950755967189204, 3844437745334206399)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "83e28d94-8c1d-268a-c9a5-7556c2734b73",
       "b": ""
     },
@@ -1379,7 +1406,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1398,7 +1425,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "3b154fe8-29ea-64f7-c79a-01ccd94fa5e2"
+    "texture": "5a54adce-4a35-7fe3-36d8-64ba280c1b2b"
   },
   {
     "guid": {
@@ -1412,7 +1439,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2292,5 +2319,38 @@
     "editable": true,
     "advanced": false,
     "texture": "72eebe86-f81a-d894-61d0-a8f12b7a0bd7"
+  },
+  {
+    "guid": {
+      "a": "e0c81978-21c5-4990-887d-e5e794241eb8",
+      "b": ""
+    },
+    "objGuid": "Guid(8740996816034516816, 6672383264955508630)",
+    "extraType": "Entity",
+    "name": "Bias Direction",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "88c57cb2-154a-1009-8ed3-c426b4cd4af5",
+      "b": ""
+    },
+    "objGuid": "Guid(2756383825527366320, 7995427390638757777)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "ee63cd39-56d9-c609-d70d-a577cb399ec4"
   }
 ]
