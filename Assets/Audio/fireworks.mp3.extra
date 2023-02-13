@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "b6cff324-a69e-2813-7208-6e6bc1905052",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "fireworks",
+    "objGuid": "Guid(16447681333426268849, 18212096543604624297)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]
